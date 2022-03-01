@@ -1,0 +1,21 @@
+{
+  "$id": "12202944",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "59 30th St.",
+      "postalCode": "94110",
+      "region": "CA"
+    },
+    "description": "Only the truly iron-willed will make it out of here without sampling at least one of the decadent, baklava-like treats on display in this sweet little space—and sample you should, as each oozes with delectable syrup and bright green pistachios shipped in from Turkey. A dessert from the case, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/shish-ke-baba",
+    "mainPhone": "+14159268955",
+    "name": "Shish Ke Baba",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

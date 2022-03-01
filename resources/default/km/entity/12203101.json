@@ -1,0 +1,24 @@
+{
+  "$id": "12203101",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Monterey",
+      "countryCode": "US",
+      "line1": "309 Lighthouse Ave.",
+      "postalCode": "93940",
+      "region": "CA"
+    },
+    "description": "This tiny spot is the perfect sojourn before or after a visit to the Monterey Bay Aquarium, thanks to its delectable and affordable Mediterranean food and friendly service. A diminutive and humble place, it has only six tables, but the chef/owner provides a warm welcome, recommending favorite items before ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/monterey/restaurant/paprika-cafe",
+    "mainPhone": "+18313757452",
+    "name": "Paprika Café",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.paprikacafe-monterey.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

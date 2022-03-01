@@ -1,0 +1,21 @@
+{
+  "$id": "12202997",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Big Sur",
+      "countryCode": "US",
+      "line1": "48123 Hwy 1",
+      "postalCode": "93920",
+      "region": "CA"
+    },
+    "description": "Housed in a striking red contemporary structure, it’s easy to spot this Smokehouse from a distance. Inside, you’ll find an equally stylish décor—all clean lines and a modern farmhouse-chic vibe. Outside, families gravitate to the picnic tables, where children busy themselves with wood blocks while the adults nosh. This ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/big-sur/restaurant/big-sur-smokehouse",
+    "mainPhone": "+18558991693",
+    "name": "Big Sur Smokehouse",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

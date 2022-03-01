@@ -1,0 +1,24 @@
+{
+  "$id": "12203044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "West Hollywood",
+      "countryCode": "US",
+      "line1": "8358 Sunset Blvd.",
+      "postalCode": "90069",
+      "region": "CA"
+    },
+    "description": "An art deco relic of the Great Depression and hailed as Los Angeles’s first earthquake-proof structure—the Sunset Tower is a formidable home. Here, the maître‘d is known as a local gatekeeper of sorts, and alone decides whether you are seated at a mauve banquette by the terrace or in ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/west-hollywood/restaurant/sunset-tower-bar-and-restaurant",
+    "mainPhone": "+13236547100",
+    "name": "Sunset Tower Bar and Restaurant",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.sunsettowerhotel.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

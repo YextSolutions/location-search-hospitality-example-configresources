@@ -1,0 +1,24 @@
+{
+  "$id": "12203117",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Carmel-by-the-Sea",
+      "countryCode": "US",
+      "line1": "29 Dolores St.",
+      "postalCode": "93921",
+      "region": "CA"
+    },
+    "description": "This is a quintessential bistro and relaxed neighborhood spot in the heart of charming Carmel-by-the-Sea. The quirky corner space offers petite but comfortable wooden chairs and tables, set beneath hanging copper pots and, of course, a bicycle or two. First and foremost, the kitchen focuses on comforting seasonal cuisine ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/carmel-by-the-sea/restaurant/la-bicyclette",
+    "mainPhone": "+18316229899",
+    "name": "La Bicyclette",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.labicycletterestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203154",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Sherman Oaks",
+      "countryCode": "US",
+      "line1": "13447 Ventura Blvd.",
+      "postalCode": "91423",
+      "region": "CA"
+    },
+    "description": "Nota bene: Sushi Note is far from a postscript. Whether you\u0027re here for the supreme fish or wine selection, it hits all the marks. The sleek dining room is defined by soft fabrics, moody colors and provocative artwork, including framed letters and photos. Chef Kiminobu Saito showcases serious craftsmanship, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/sherman-oaks/restaurant/sushi-note",
+    "mainPhone": "+18188023443",
+    "name": "Sushi Note",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.sushinotela.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

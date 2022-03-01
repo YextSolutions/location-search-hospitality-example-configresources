@@ -1,0 +1,24 @@
+{
+  "$id": "12203032",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "2266 Kettner Blvd.",
+      "postalCode": "92101",
+      "region": "CA"
+    },
+    "description": "Loud and proudly serving “all day chicken and eggs,” this shack indeed lives up to its name. The dining area is almost entirely outside, so the planes flying overhead can’t be ignored and neither can the enthusiastic crowds, who seem to compete with that level of noise. Many come ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/crack-shack",
+    "mainPhone": "+16197953299",
+    "name": "Crack Shack",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.crackshack.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203073",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "11301 W. Olympic Blvd.",
+      "postalCode": "90064",
+      "region": "CA"
+    },
+    "description": "One bite of a glistening piece of sashimi at this Westside gem and it will come as no surprise that Chef/owner Ken Namba was raised in the environs of Japan\u0027s famous Tsukiji fish market. Namba isn’t content with the classics, and sashimi here will include varieties the likes of ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/kiriko",
+    "mainPhone": "+13104787769",
+    "name": "Kiriko",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.kirikosushi.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

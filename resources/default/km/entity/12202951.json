@@ -1,0 +1,21 @@
+{
+  "$id": "12202951",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "702 Valencia St.",
+      "postalCode": "94110",
+      "region": "CA"
+    },
+    "description": "This deservedly popular pizzeria is tucked into one of the Mission District\u0027s most trendy corners. Fittingly, diners will be able to thoroughly enjoy their time here people watching—either from the quaint outdoor area or from the big, glossy windows overlooking Valencia Street. The pizza (also available at the takeout ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/flour-water-pizzeria",
+    "mainPhone": "+14158267000",
+    "name": "Flour + Water Pizzeria",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

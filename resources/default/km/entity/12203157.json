@@ -1,0 +1,23 @@
+{
+  "$id": "12203157",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "9575 W. Pico Blvd.",
+      "postalCode": "90035",
+      "region": "CA"
+    },
+    "description": "This Parisian-style bistro landed upon the scene to much hype and favor. Conceived by the same team behind Republique, the light blue structure with dark blue trim exudes all the French vibes in the heart of SoCal. A suspended bicycle marks its entrance; then walk a few steps down ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/bicyclette-bistro",
+    "name": "Bicyclette Bistro",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://bicyclettela.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

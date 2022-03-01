@@ -1,0 +1,20 @@
+{
+  "$id": "12202982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Glendale",
+      "countryCode": "US",
+      "line1": "318 E. Broadway",
+      "postalCode": "91205",
+      "region": "CA"
+    },
+    "description": "How many leafy greens and herbs can you name? At this minimally embellished Armenian bakery, watch as two seasoned chefs knead, roll out, and griddle a specialty flatbread stuffed with more than a dozen chopped varietals. It’s as if they’ve been doing this their entire lives, working with the ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/glendale/restaurant/zhengyalov-hatz",
+    "name": "Zhengyalov Hatz",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12202911",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Burlingame",
+      "countryCode": "US",
+      "line1": "824 Cowan Rd.",
+      "postalCode": "94010",
+      "region": "CA"
+    },
+    "description": "You won\u0027t have to wait in line any longer at this palace of seafood—thanks to a remodel there’s even more seating inside and out. Set in an industrial warehouse, the space features a nautical theme—painted buoys hang on the walls and seawater tanks are filled with crustaceans. Expect nothing ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/burlingame/restaurant/new-england-lobster-eatery",
+    "mainPhone": "+16504431559",
+    "name": "New England Lobster Eatery",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.newenglandlobster.net"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

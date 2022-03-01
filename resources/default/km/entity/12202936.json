@@ -1,0 +1,21 @@
+{
+  "$id": "12202936",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "2226 Polk St.",
+      "postalCode": "94109",
+      "region": "CA"
+    },
+    "description": "You’re likely to stroll right past this unassuming little gem on bustling Polk Street, but what a shame that would be as it offers next-level contemporary Korean food. The perfectly curated menu will come as no surprise to those familiar with the talents of married duo, Hyunyoung and Junsoo ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/ssal",
+    "mainPhone": "+14158142704",
+    "name": "Ssal",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

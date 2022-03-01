@@ -1,0 +1,20 @@
+{
+  "$id": "12202938",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Alhambra",
+      "countryCode": "US",
+      "line1": "19 S. Garfield Ave.",
+      "postalCode": "91801",
+      "region": "CA"
+    },
+    "description": "You wouldn’t expect to find such a homey respite in the center of downtown Alhambra, amid an outdoor shopping mecca with a bustling movie theater. And yet, nestled within is this tiny and focused kitchen named after an island situated between Indonesia and Singapore. Diners start with skewers of ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/alhambra/restaurant/borneo-kalimantan-cuisine",
+    "name": "Borneo Kalimantan Cuisine",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,377 @@
+{
+  "$id": "restaurants",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Restaurants",
+  "entityType": "location",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "restaurants",
+        "urlPatterns": [
+          "https://guide.michelin.com/us/en/*"
+        ]
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_ID",
+        "header": "Page ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "PAGE_TITLE",
+        "header": "Page Title"
+      },
+      {
+        "type": "CSS",
+        "header": "Name",
+        "path": "h2.restaurant-details__heading--title",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Address",
+        "path": "ul.restaurant-details__heading--list",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Facilities \u0026 Services",
+        "path": "div.restaurant-details__services--content",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Open Hours",
+        "path": "div.open__time-hour.flex-fill",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Information",
+        "path": "div.collapse__block-title",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Description",
+        "path": "div.js-show-description-text",
+        "mode": "ALL_TEXT"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "filterRows": {
+        "action": "REMOVE",
+        "combinator": "OR",
+        "rules": [
+          {
+            "columnHeader": "Page URL",
+            "conditional": "CONTAINS",
+            "conditionalInput": "?"
+          },
+          {
+            "columnHeader": "Page URL",
+            "conditional": "DOES_NOT_CONTAIN",
+            "conditionalInput": "restaurant"
+          }
+        ]
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Name",
+        "newColumnHeader": "Name 2",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Address",
+        "newColumnHeader": "Address \u003e Line 1",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Address \u003e Line 1"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\"",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Address",
+        "newColumnHeader": "Address \u003e City",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Address \u003e City",
+        "newColumnHeader": "Address \u003e City 2",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Address \u003e City",
+        "newColumnHeader": "Address \u003e Postal Code",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Address \u003e Postal Code",
+        "newColumnHeader": "Address \u003e Postal Code 2",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Open Hours"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\"",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Information",
+        "newColumnHeader": "Phone Number",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "removeUnwantedChars": {
+        "inputHeaders": {
+          "headers": [
+            "Phone Number"
+          ]
+        },
+        "cleanOptions": [
+          "REMOVE_NON_NUMERICS"
+        ]
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Information",
+        "newColumnHeader": "Website",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "https://",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Website",
+        "newColumnHeader": "Website 2",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": "/",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Description"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "\"",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "filterRows": {
+        "action": "REMOVE",
+        "combinator": "AND",
+        "rules": [
+          {
+            "columnHeader": "Address \u003e Postal Code",
+            "conditional": "IS_BLANK"
+          }
+        ]
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "State",
+        "columnValue": "NY"
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Country",
+        "columnValue": "US"
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "address",
+      "header": "Address \u003e City 2",
+      "subfieldPath": [
+        {
+          "name": "city"
+        }
+      ]
+    },
+    {
+      "field": "landingPageUrl",
+      "header": "Page URL",
+      "subfieldPath": []
+    },
+    {
+      "field": "description",
+      "header": "Description",
+      "subfieldPath": []
+    },
+    {
+      "field": "address",
+      "header": "State",
+      "subfieldPath": [
+        {
+          "name": "region"
+        }
+      ]
+    },
+    {
+      "field": "address",
+      "header": "Address \u003e Line 1",
+      "subfieldPath": [
+        {
+          "name": "line1"
+        }
+      ]
+    },
+    {
+      "field": "address",
+      "header": "Address \u003e Postal Code 2",
+      "subfieldPath": [
+        {
+          "name": "postalCode"
+        }
+      ]
+    },
+    {
+      "field": "address",
+      "header": "Country",
+      "subfieldPath": [
+        {
+          "name": "countryCode"
+        }
+      ]
+    },
+    {
+      "field": "websiteUrl",
+      "header": "Website 2",
+      "subfieldPath": [
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "mainPhone",
+      "header": "Phone Number",
+      "subfieldPath": []
+    },
+    {
+      "field": "entityId",
+      "header": "Page ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name 2",
+      "subfieldPath": []
+    }
+  ]
+}

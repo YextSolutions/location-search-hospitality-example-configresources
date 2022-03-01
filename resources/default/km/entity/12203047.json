@@ -1,0 +1,24 @@
+{
+  "$id": "12203047",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "1135 N. Alameda St.",
+      "postalCode": "90012",
+      "region": "CA"
+    },
+    "description": "This breezy, classic bistro may just be your next choice neighborhood haunt. Nestled amid the shops in Chinatown, the window-flanked space offers a full bar and dining room along with an inviting foyer and terrace. Clean, white walls are richly adorned with artwork and rows of wine bottles. The ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/oriel",
+    "mainPhone": "+12132539419",
+    "name": "Oriel",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.orielchinatown.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

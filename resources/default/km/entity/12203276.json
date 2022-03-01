@@ -1,0 +1,24 @@
+{
+  "$id": "12203276",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "7315 Melrose Ave.",
+      "postalCode": "90046",
+      "region": "CA"
+    },
+    "description": "Aim for the two-story floral mural to find this Italian favorite with a dive bar-feel and plenty of LA style. Sit in the lovely patio, or head inside to the black marble bar. Other options include booths as well as an attractive communal table crafted from a varnished wood ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/ronan",
+    "mainPhone": "+13239175100",
+    "name": "Ronan",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.ronanla.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203019",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Newport Beach",
+      "countryCode": "US",
+      "line1": "1200 Bison Ave.",
+      "postalCode": "92660",
+      "region": "CA"
+    },
+    "description": "Originally from Atina and boasting a lineage of chefs and farmers, Chef/co-owner Sandro Nardone brings his culinary pyrotechnics stateside to this good-looking operation. Sea-blue acrylic chairs and fresh greenery lend a lush feel, while dark wood tables and an open kitchen welcome diners inside. It is an idyllic setting ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/newport-beach/restaurant/bello-by-sandro-nardone",
+    "mainPhone": "+19495207191",
+    "name": "Bello by Sandro Nardone",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.bellobysandronardone.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

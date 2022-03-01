@@ -1,0 +1,24 @@
+{
+  "$id": "12203144",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "672 Geary St.",
+      "postalCode": "94102",
+      "region": "CA"
+    },
+    "description": "This little ramen shop is the first in the U.S.A. from the chef behind the highly popular Tokyo outposts, and its wait times are nothing short of epic—even in queue-crazed San Francisco. No matter how early you arrive, snagging one of the 28 communal seats is at least a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/mensho",
+    "mainPhone": "+14158008345",
+    "name": "Mensho",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.mensho.tokyo"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203099",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Anselmo",
+      "countryCode": "US",
+      "line1": "120 Sir Francis Drake Blvd.",
+      "postalCode": "94960",
+      "region": "CA"
+    },
+    "description": "San Anselmo restaurateur, Chef Heidi Krahling honors her late father, Italo Insalata, at this crowd-pleasing Marin hangout. The zucca-orange stucco exterior alludes to the Mediterranean air within. Insalata’s upscale setting is framed by lemon-yellow walls hung with grand depictions of nature’s bounty, setting the scene for an array of ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-anselmo/restaurant/insalata-s",
+    "mainPhone": "+14154577700",
+    "name": "Insalata\u0027s",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.insalatas.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203109",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Alhambra",
+      "countryCode": "US",
+      "line1": "1900 W. Valley Blvd.",
+      "postalCode": "91803",
+      "region": "CA"
+    },
+    "description": "Paradise for diners seeking a culinary adventure, this dining room flaunts a pleasing aura. Service is prompt and tables turn quickly, so those in a rush should come at lunch. It\u0027s no wonder that crowds are the norm at peak hour, as meals have been known to render palates ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/alhambra/restaurant/sichuan-impression",
+    "mainPhone": "+16262834622",
+    "name": "Sichuan Impression",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.sichuanimpressions.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

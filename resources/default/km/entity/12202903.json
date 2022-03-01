@@ -1,0 +1,24 @@
+{
+  "$id": "12202903",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "West Hollywood",
+      "countryCode": "US",
+      "line1": "8905 Melrose Ave.",
+      "postalCode": "90069",
+      "region": "CA"
+    },
+    "description": "This plant-based darling set along Melrose Avenue may seem like a pretty place for young\u0027uns, but it should not be underestimated. The space is an open, airy and beguiling combination of serape fabric banquettes, whitewashed walls and lofty ceilings. The patio is an even lovelier destination, surrounded by old ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/west-hollywood/restaurant/gracias-madre-la",
+    "mainPhone": "+13239782170",
+    "name": "Gracias Madre LA",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.graciasmadre.co"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

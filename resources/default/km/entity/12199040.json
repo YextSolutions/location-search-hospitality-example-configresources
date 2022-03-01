@@ -1,0 +1,24 @@
+{
+  "$id": "12199040",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "27 Hyatt St.",
+      "postalCode": "10301",
+      "region": "NY"
+    },
+    "description": "No need to venture far on Staten Island for excellent Italian. Enoteca Maria is just blocks from St. George Terminal and brought to you by Joe Scaravella, whose cookbook, Nonna’s House, has been earning him (and this tiny gem) much applause. With its Carrara marble and lively vibe, most ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/enoteca-maria",
+    "mainPhone": "+17184472777",
+    "name": "Enoteca Maria",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.enotecamaria.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "12203159",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "165 O\u0027Farrell St.",
+      "postalCode": "94102",
+      "region": "CA"
+    },
+    "description": "This restaurant is the crowning jewel to ONE65, the Financial District’s six-floor edifice to fine French cuisine. With a bakery, bistro and bar right below it, the dining room begins on the fifth floor—where you’ll find a modern design focused on the four elements and featuring cozy grey banquettes. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/o-by-claude-le-tohic",
+    "mainPhone": "+14158148888",
+    "name": "O\u0027 by Claude Le Tohic",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

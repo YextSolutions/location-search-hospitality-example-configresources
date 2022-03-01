@@ -1,0 +1,24 @@
+{
+  "$id": "12203020",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "2100 W. Sunset Blvd.",
+      "postalCode": "90026",
+      "region": "CA"
+    },
+    "description": "Courtesy of the same owners behind the posh Alimento, this is a neighborhood pizza joint done right. Familiar items aside, the kitchen boasts a clear eye toward quality ingredients and careful presentations. For instance, hand-breaded mozzarella sticks with chunky marinara bring out the kid in all of us, while ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/cosa-buona",
+    "mainPhone": "+12139085211",
+    "name": "Cosa Buona",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.cosabuona.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

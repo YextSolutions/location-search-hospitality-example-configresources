@@ -1,0 +1,24 @@
+{
+  "$id": "12203125",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Ana",
+      "countryCode": "US",
+      "line1": "301 N. Spurgeon St.",
+      "postalCode": "92701",
+      "region": "CA"
+    },
+    "description": "This restaurant strives to be a culinary microcosm of the distinctive regions of Mexico. On the outside, it may seem like a plain-Jane sort of space, but in fact bustles with passersby, shoppers and residents from around the way. Inside, bursts of color from the artwork make everything seem ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-santa-ana/restaurant/el-mercado-modern-cuisine",
+    "mainPhone": "+17143382446",
+    "name": "El Mercado Modern Cuisine",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.mercadomodern.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

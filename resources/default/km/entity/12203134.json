@@ -1,0 +1,24 @@
+{
+  "$id": "12203134",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "360 Jessie St.",
+      "postalCode": "94103",
+      "region": "CA"
+    },
+    "description": "One of the city’s high-profile hangouts, this is the third effort from the team behind Marlowe and Park Tavern. Everything here has a British bent, echoed in the hunting-lodge-gone-sophisticated décor with red-and-blue walls accented by taxidermied trophies and tufted banquettes. Across-the-pond classics have Californian twists like a deep-fried Scotch ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-cavalier",
+    "mainPhone": "+14153216000",
+    "name": "The Cavalier",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.thecavaliersf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

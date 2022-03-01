@@ -1,0 +1,21 @@
+{
+  "$id": "12202920",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Millbrae",
+      "countryCode": "US",
+      "line1": "51 Millbrae Ave.",
+      "postalCode": "94030",
+      "region": "CA"
+    },
+    "description": "Generations of dim sum diehards have patronized this palace of pork buns, where a small army of servers will surround you with carts from the moment you take your seat. They bear innumerable delights: rich barbecue pork belly with crispy skin, pan-fried pork-and-chive wontons steamed to order and doused ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/millbrae/restaurant/hong-kong-flower-lounge",
+    "mainPhone": "+16506926666",
+    "name": "Hong Kong Flower Lounge",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "2121 E. 7th Pl.",
+      "postalCode": "90021",
+      "region": "CA"
+    },
+    "description": "As cool and convivial as ever, this is the kind of place where both diners and staff seem perpetually at bliss. Inside, it all feels like a labor of love, thanks to the husband-and-wife team who make it their mission to bring fresh, rib-sticking food to this neighborhood. The ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/bestia",
+    "mainPhone": "+12135145724",
+    "name": "Bestia",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.bestiala.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

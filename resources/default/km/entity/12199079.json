@@ -1,0 +1,24 @@
+{
+  "$id": "12199079",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "399 Morse St. NE",
+      "postalCode": "20002",
+      "region": "DC"
+    },
+    "description": "Self-appointed as a Neo-Neapolitan style pizzeria, this is a bright spot that dons a line of of colorful tiles, red stools, and a blazing open kitchen equipped with—you guessed it—a wood-burning oven. You may even see Chef/owner Matteo Venini manning this mighty machine, as he is known to turn out ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/stellina-pizzeria",
+    "mainPhone": "+12028513995",
+    "name": "Stellina Pizzeria",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.stellinapizzeria.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

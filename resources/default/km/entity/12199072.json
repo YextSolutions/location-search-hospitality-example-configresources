@@ -1,0 +1,24 @@
+{
+  "$id": "12199072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "1112 F St. NW",
+      "postalCode": "20004",
+      "region": "DC"
+    },
+    "description": "Tosca pulls off a bit of a magic trick, as you’d never suspect that this gem was hiding in plain sight. Shielded by an unassuming façade, it\u0027s more than easy to walk right by. But what a shame that would be as the elegant dining room, awash in soft ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/tosca",
+    "mainPhone": "+12023671990",
+    "name": "Tosca",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.toscadc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

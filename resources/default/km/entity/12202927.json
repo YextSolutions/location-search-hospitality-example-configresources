@@ -1,0 +1,20 @@
+{
+  "$id": "12202927",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "1106 S. Western Ave.",
+      "postalCode": "90006",
+      "region": "CA"
+    },
+    "description": "It’s all about the duck—whole roasted in a clay pot—at this dining delight. And since the very best things take time, seat-of-the-pants types must know that this signature platter requires a bit of planning; order at least a day in advance. However, upon entering this Koreatown gem, one may ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/dha-rae-oak",
+    "name": "Dha Rae Oak",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

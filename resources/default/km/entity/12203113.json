@@ -1,0 +1,24 @@
+{
+  "$id": "12203113",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "655 Jackson St.",
+      "postalCode": "94133",
+      "region": "CA"
+    },
+    "description": "Some like it hot, and here they are in heaven. Be forewarned: timid palates should steer clear of the super-spicy Sichuan dishes that have made Z \u0026 Y a Chinatown smash hit. Nearly every dish is crowned with chilies, from the huge mound of dried peppers that rests atop ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/z-y",
+    "mainPhone": "+14159818988",
+    "name": "Z \u0026 Y",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.zandyrestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

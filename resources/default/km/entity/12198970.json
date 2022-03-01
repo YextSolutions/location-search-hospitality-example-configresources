@@ -1,0 +1,24 @@
+{
+  "$id": "12198970",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "43 E. 19th St.",
+      "postalCode": "10003",
+      "region": "NY"
+    },
+    "description": "It’s been years since Tom Colicchio first opened Craft to great acclaim, but the easy charms of the celebrity chef and TV personality’s downtown institution haven’t waned a bit. The room is still busy most nights of the week with stylish patrons who appreciate the triple threat of cozy ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/craft",
+    "mainPhone": "+12127800880",
+    "name": "Craft",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.craftrestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

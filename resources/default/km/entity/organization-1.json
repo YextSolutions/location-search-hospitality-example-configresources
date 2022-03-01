@@ -1,0 +1,48 @@
+{
+  "$id": "organization-1",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "blackOwnedBusiness": false,
+    "description": "The MICHELIN Guide conveys its restaurant reviews through two to three-line short summaries and an extensive system of symbols, the most revered of which are its globally renowned stars. Restaurants may receive zero to 3 stars for the quality of their food based on five criteria: quality of the ingredients used, mastery of flavor and cooking techniques, the personality of the chef in his cuisine, value for money and consistency between visits.",
+    "emails": [
+      "tp@michelin.com"
+    ],
+    "facebookPageUrl": "https://www.facebook.com/MichelinGuideUnitedStates",
+    "instagramHandle": "michelinguide",
+    "logo": {
+      "image": {
+        "height": 1024,
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/MichelinStar.svg/938px-MichelinStar.svg.png",
+        "thumbnails": [
+          {
+            "height": 1024,
+            "url": "https://a.mktgcdn.com/p-sandbox/FxSn4i26bIkrihj_9NqwIT1Tv69t5xNHaZMrTPFjdVo/1024x1024.png",
+            "width": 1024
+          },
+          {
+            "height": 619,
+            "url": "https://a.mktgcdn.com/p-sandbox/FxSn4i26bIkrihj_9NqwIT1Tv69t5xNHaZMrTPFjdVo/619x619.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p-sandbox/FxSn4i26bIkrihj_9NqwIT1Tv69t5xNHaZMrTPFjdVo/450x450.png",
+            "width": 450
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p-sandbox/FxSn4i26bIkrihj_9NqwIT1Tv69t5xNHaZMrTPFjdVo/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p-sandbox/FxSn4i26bIkrihj_9NqwIT1Tv69t5xNHaZMrTPFjdVo/1024x1024.png",
+        "width": 1024
+      }
+    },
+    "name": "Michelin Guide",
+    "phoneticName": "MISH-eh-lin"
+  },
+  "entityType": "organization",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203068",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Belmont",
+      "countryCode": "US",
+      "line1": "300 El Camino Real",
+      "postalCode": "94002",
+      "region": "CA"
+    },
+    "description": "A perennial favorite for Persian flavors, Shalizaar is friendly, charming and authentic. Lunchtime draws a large business crowd, while dinners cater to couples on dates. The upscale space features chandeliers, linen-topped tables, Persian carpets and walls of framed windows that flood everything with light. Meals here are always a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/belmont/restaurant/shalizaar",
+    "mainPhone": "+16505969000",
+    "name": "Shalizaar",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.shalizaar.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

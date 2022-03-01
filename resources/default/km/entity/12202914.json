@@ -1,0 +1,25 @@
+{
+  "$id": "12202914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Alhambra",
+      "countryCode": "US",
+      "line1": "500 W. Main St.",
+      "postalCode": "91801",
+      "region": "CA"
+    },
+    "c_defaultOnInitialSearch": true,
+    "description": "Few kitchens can prepare a noodle roll quite like this local Alhambra favorite. Rice wrappers filled with gently cooked lobster meat and finished with a subtly sweet soy sauce arrive on a platter set with the lobster shell itself for a presentation that draws attention from all corners. Indeed, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/alhambra/restaurant/lunasia-dim-sum-house",
+    "mainPhone": "+16263083222",
+    "name": "Lunasia Dim Sum House",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://lunasiadimsum.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

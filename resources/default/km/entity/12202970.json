@@ -1,0 +1,24 @@
+{
+  "$id": "12202970",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "2001 Kettner Blvd.",
+      "postalCode": "92101",
+      "region": "CA"
+    },
+    "description": "Hip, laid-back and a model of design, this indoor-outdoor space is at once many things. Inside, relax with a creative cocktail and bowl of lemon-Dijon popcorn while contemplating the entryway’s reflective blue-glass ceiling, the two-way fireplace and that nest of driftwood hanging from an upper floor. If in the ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/kettner-exchange",
+    "mainPhone": "+16192552001",
+    "name": "Kettner Exchange",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.kettnerexchange.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

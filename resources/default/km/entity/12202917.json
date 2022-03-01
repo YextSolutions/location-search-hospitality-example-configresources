@@ -1,0 +1,20 @@
+{
+  "$id": "12202917",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Rosemead",
+      "countryCode": "US",
+      "line1": "3939 Rosemead Blvd.",
+      "postalCode": "91770",
+      "region": "CA"
+    },
+    "description": "This highly regarded Cantonese restaurant could easily glide solely on its reputation, and yet, its devoted chefs bring the goods again and again. One of the first of its kind to offer dim sum à la carte, rather than by an actual cart, items arrive piping hot, fresh from ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/rosemead/restaurant/sea-harbour",
+    "name": "Sea Harbour",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

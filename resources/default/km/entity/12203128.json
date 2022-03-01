@@ -1,0 +1,21 @@
+{
+  "$id": "12203128",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "880 Harbor Island Dr.",
+      "postalCode": "92101",
+      "region": "CA"
+    },
+    "description": "Attention-grabbing views and attention-getting food go hand-in-hand at this modern Mexican eatery set on the tip of Harbor Island, which offers dramatic panoramas of downtown San Diego from across the water. The enormous patio, equipped with a sizable fire pit, is the best place to soak it all in, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/coasterra",
+    "mainPhone": "+16198141300",
+    "name": "Coasterra",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

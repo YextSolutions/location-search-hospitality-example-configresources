@@ -1,0 +1,24 @@
+{
+  "$id": "12202976",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "505 Laurel St.",
+      "postalCode": "92101",
+      "region": "CA"
+    },
+    "description": "Cucina Urbana, like the other siblings in the Urban Kitchen Group family, is an amiable place that promises a good time. It’s casual, festive and draws regulars who flock here for their daily deals (Meatball Mondays are a favorite) and happy hour specials. Snacks are also aplenty. One sniff ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/cucina-urbana",
+    "mainPhone": "+16192392222",
+    "name": "Cucina Urbana",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.urbankitchengroup.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

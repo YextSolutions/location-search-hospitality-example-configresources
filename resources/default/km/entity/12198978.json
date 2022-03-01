@@ -1,0 +1,24 @@
+{
+  "$id": "12198978",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Yountville",
+      "countryCode": "US",
+      "line1": "6770 Washington St.",
+      "postalCode": "94599",
+      "region": "CA"
+    },
+    "description": "A pleasant contrast to the sleek new spots around town, this dining room\u0027s country-style curtains and front porch are a ticket to another era—and a hot ticket at that, since tables are hard to come by. Indeed, this Yountville gem could pass off as a John Wayne film set, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/yountville/restaurant/ciccio",
+    "mainPhone": "+17079451000",
+    "name": "Ciccio",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.ciccionapavalley.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

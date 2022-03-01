@@ -1,0 +1,20 @@
+{
+  "$id": "12202915",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Rosemead",
+      "countryCode": "US",
+      "line1": "7540 Garvey Ave.",
+      "postalCode": "91770",
+      "region": "CA"
+    },
+    "description": "The parking lot is likely full and you may have to wait for a seat, but this efficient Cantonese parlor is more than capable of handling its crowds, which haven’t let up since day one. Adding to the buzz of this bright dining room is a massive TV that ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/rosemead/restaurant/longo-seafood",
+    "name": "Longo Seafood",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12199092",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "2301 Fillmore St.",
+      "postalCode": "94115",
+      "region": "CA"
+    },
+    "description": "In keeping with its location on boutique-y Fillmore Street, The Snug reimagines the neighborhood bar in a very au courant context. Dark wood is subbed for sun-drenched white walls, big windows are lined with an array of house-made tinctures and visitors might even spot that rarest of SF species—children—alongside ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-snug",
+    "mainPhone": "+14155625092",
+    "name": "The Snug",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.thesnugsf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

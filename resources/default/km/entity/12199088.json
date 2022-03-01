@@ -1,0 +1,21 @@
+{
+  "$id": "12199088",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1625 Post St.",
+      "postalCode": "94115",
+      "region": "CA"
+    },
+    "description": "At Kin Khao’s fashionable baby sister restaurant, tucked inside Hotel Kabuki, Chef/owner Pim Techamuanvivit infuses her bold, vibrant Thai cooking with a thoroughly modern Californian sensibility—sliced fresh stone fruit in a Massaman lamb curry, for instance. The result is delicious, elegantly composed food in an equally sleek setting. Kick ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/nari",
+    "mainPhone": "+14158686274",
+    "name": "Nari",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203030",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Pasadena",
+      "countryCode": "US",
+      "line1": "37 East Union St.",
+      "postalCode": "91103",
+      "region": "CA"
+    },
+    "description": "This original, chef-driven restaurant is truly something of note, set amidst quaint brick buildings near Old Pasadena. The design is simple: boxy with high ceilings, red brick and mason jars everywhere. Make reservations or go early, as Union’s devoted fans ensure the tables are full soon after opening. As ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/pasadena/restaurant/union",
+    "mainPhone": "+16267955841",
+    "name": "Union",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.unionpasadena.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

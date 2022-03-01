@@ -1,0 +1,24 @@
+{
+  "$id": "12202935",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "1147 S. Western Ave.",
+      "postalCode": "90006",
+      "region": "CA"
+    },
+    "description": "In a sea of more-is-more Koreatown restaurants with massive menus, Master Ha stands out for its singular focus on a handful of dishes, namely marinated seafood and seolleongtang (or oxbone broth). Start with the remarkably fresh shrimp and crab, served plump and meaty after a light fermentation in miso. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/master-ha",
+    "mainPhone": "+13239980427",
+    "name": "Master Ha",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.masterhala.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

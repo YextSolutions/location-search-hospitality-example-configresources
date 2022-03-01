@@ -1,0 +1,20 @@
+{
+  "$id": "12203090",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Alhambra",
+      "countryCode": "US",
+      "line1": "910 E. Main St.",
+      "postalCode": "91801",
+      "region": "CA"
+    },
+    "description": "When it comes to regional Chinese food, most think of either the tongue-numbing sensations of Sichuan or the roaming dim sum carts and steamed seafood wonders of Canton. This makes Jiang Nan Spring and its Shanghainese focus an all the more valuable addition to the area. Sweet vinegars and ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/alhambra/restaurant/jiang-nan-spring",
+    "name": "Jiang Nan Spring",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

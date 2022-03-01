@@ -1,0 +1,21 @@
+{
+  "$id": "12202964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "4161 Voltaire St.",
+      "postalCode": "92107",
+      "region": "CA"
+    },
+    "description": "Step into this charming trattoria and you’ll instantly feel like part of the famiglia. A glass-walled pastificio provides a behind-the-scenes view of the production—from fusilli to tortelli, while a tableside tiramisu brings the show right to you. There\u0027s a warm, boisterous atmosphere here, accented by the hand-painted, mismatched pottery ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/cesarina",
+    "mainPhone": "+16192266222",
+    "name": "Cesarina",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

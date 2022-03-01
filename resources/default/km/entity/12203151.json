@@ -1,0 +1,24 @@
+{
+  "$id": "12203151",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "3655 S. Grand Ave.",
+      "postalCode": "90007",
+      "region": "CA"
+    },
+    "description": "Named for a tropical island off the Yucatán Peninsula, this cheery walk-up stall shines bright with seafood, whether that\u0027s a whole grilled branzino, an exemplary Baja-style fried rockfish taco or an electrically spiced scallop aguachile. Run by the second generation of the Cetina family, it skews a bit younger ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/holbox",
+    "mainPhone": "+12139869972",
+    "name": "Holbox",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.holboxla.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

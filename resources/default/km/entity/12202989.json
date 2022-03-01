@@ -1,0 +1,24 @@
+{
+  "$id": "12202989",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "888 Brannan St.",
+      "postalCode": "94103",
+      "region": "CA"
+    },
+    "description": "Iberian flavors and Cali-cool join forces at this Spanish stunner, where legs of the namesake jamón ibérico de Bellota hang in a central glass case. They’re flanked by a sumptuous exhibition kitchen framed in bronze and hand-painted tiles, as well as a glamorous U-shaped bar. Chic professionals (some of ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/bellota",
+    "mainPhone": "+14154306580",
+    "name": "Bellota",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.bellotasf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

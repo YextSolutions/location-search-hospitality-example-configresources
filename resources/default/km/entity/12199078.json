@@ -1,0 +1,24 @@
+{
+  "$id": "12199078",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "974 Palmer Alley NW",
+      "postalCode": "20001",
+      "region": "DC"
+    },
+    "description": "Located at CityCenterDC, this bright, inviting spot is part-osteria—equipped with a wood-burning oven—and part-market, offering local produce and specialty Italian pantry goods. Inside, you’ll find big windows overlooking colorful boutiques, an open kitchen, and a granite bar for sipping cocktails. The beverage program also offers a list of apertivi ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/centrolina",
+    "mainPhone": "+12028982426",
+    "name": "Centrolina",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.centrolinadc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

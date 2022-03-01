@@ -1,0 +1,24 @@
+{
+  "$id": "12202952",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Millbrae",
+      "countryCode": "US",
+      "line1": "270 Broadway",
+      "postalCode": "94030",
+      "region": "CA"
+    },
+    "description": "Hunanese cuisine may have once taken a backseat to the Bay Area\u0027s roster of Chinese spots, so it’s no wonder that this snug gem has attracted many a local and curious palate. Try to snag one of the beautifully carved booths in the back—then you\u0027ll be privy to the ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/millbrae/restaurant/wonderful",
+    "mainPhone": "+16506518888",
+    "name": "wonderful",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.wonderful.restaurant"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

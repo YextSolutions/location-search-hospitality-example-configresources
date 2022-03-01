@@ -1,0 +1,25 @@
+{
+  "$id": "12203075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Studio City",
+      "countryCode": "US",
+      "line1": "11941 Ventura Blvd.",
+      "postalCode": "91604",
+      "region": "CA"
+    },
+    "c_defaultOnInitialSearch": true,
+    "description": "With its spare design, fire-glazed stone pottery and even Hello Kitty dolls doubling as décor, everything about Asanebo’s look is appealing. There is certainly no dearth of sushi restaurants in this city, but this well-regarded favorite has been at it for more than two decades. Three omakase options open ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/studio-city/restaurant/asanebo",
+    "mainPhone": "+18187603348",
+    "name": "Asanebo",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.asanebo-restaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

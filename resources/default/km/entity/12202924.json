@@ -1,0 +1,20 @@
+{
+  "$id": "12202924",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "4001 W. Olympic Blvd.",
+      "postalCode": "90019",
+      "region": "CA"
+    },
+    "description": "The vibe at this tiny haunt isn’t much to speak of—it doesn’t even have a liquor license. But if you take notice of the many framed reviews and accolades that serve as its sole décor, you’ll realize you’re in for a treat. Even amid tough Koreatown competition, Soban is ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/soban",
+    "name": "Soban",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

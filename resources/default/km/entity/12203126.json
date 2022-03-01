@@ -1,0 +1,24 @@
+{
+  "$id": "12203126",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Gabriel",
+      "countryCode": "US",
+      "line1": "1823 S. San Gabriel Blvd.",
+      "postalCode": "91776",
+      "region": "CA"
+    },
+    "description": "While San Gabriel Valley is certainly known as a mecca of first-rate Asian food, this address offers another delicious reason to venture east of Los Angeles. This landmark Mexican restaurant has packed them in since 1999, cranking out authentic, flavor-forward, elegant food to crowds that just can’t get enough. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-gabriel/restaurant/babita-mexicuisine",
+    "mainPhone": "+16262887265",
+    "name": "Babita Mexicuisine",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.babita-mexicuisine.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

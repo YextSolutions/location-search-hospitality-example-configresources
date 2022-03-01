@@ -1,0 +1,24 @@
+{
+  "$id": "12203017",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Huntington Beach",
+      "countryCode": "US",
+      "line1": "21010 Pacific Coast Hwy.",
+      "postalCode": "92648",
+      "region": "CA"
+    },
+    "description": "Across from beautiful Huntington Beach, find this not-so-secret speakeasy tucked inside its parent restaurant, Bluegold. But the difference is palpable—LSXO is a bit cooler, louder and has a more defined personality. A trio of house-made condiments tops each table, with umami-rich fish sauce in place of salt, spice-infused oil ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-huntington-beach/restaurant/lsxo",
+    "mainPhone": "+17143740083",
+    "name": "LSXO",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.dinebluegold.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

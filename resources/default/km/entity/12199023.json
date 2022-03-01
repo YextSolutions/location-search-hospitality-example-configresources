@@ -1,0 +1,24 @@
+{
+  "$id": "12199023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "157 Duane St.",
+      "postalCode": "10013",
+      "region": "NY"
+    },
+    "description": "This Laotian hot spot serves up vibrant family-style plates brimming with tart and spicy notes that pack a punch—make that a Bang Bang, actually, as in the house sauce of mixed chilies, cilantro, fish sauce and garlic served to diners as a welcome, along with a basket of sticky rice.The ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/khe-yo",
+    "mainPhone": "+12125871089",
+    "name": "Khe-Yo",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.kheyo.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

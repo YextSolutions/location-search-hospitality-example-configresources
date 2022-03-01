@@ -1,0 +1,24 @@
+{
+  "$id": "12199069",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "601 Pennsylvania Ave. NW",
+      "postalCode": "20004",
+      "region": "DC"
+    },
+    "description": "With stone walls, seasonal arrangements, and Warhol-esque prints, this central DC powerhouse is equal parts retro glitz and country lodge. Before even crossing the threshold, diners are met with gracious and enthusiastic servers. While they may rhapsodize about their favorite dishes, take your time to peruse the pithy menu, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/fiola",
+    "mainPhone": "+12026282888",
+    "name": "Fiola",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.fioladc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

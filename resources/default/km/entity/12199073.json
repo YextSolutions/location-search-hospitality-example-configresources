@@ -1,0 +1,24 @@
+{
+  "$id": "12199073",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "221 Tingey St. SE",
+      "postalCode": "20003",
+      "region": "DC"
+    },
+    "description": "Non-stop construction has turned Navy Yard into a beacon for all things new and shiny. So it’s something of real note when hospitality guru, Danny Meyer, is behind one of this neighborhood’s prettiest dining rooms. Named in part after the original in New York City, the sun-drenched restaurant boasts ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/maialino-mare",
+    "mainPhone": "+12025085249",
+    "name": "Maialino Mare",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.maialinomare.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

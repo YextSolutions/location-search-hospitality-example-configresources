@@ -1,0 +1,24 @@
+{
+  "$id": "12203284",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Barbara",
+      "countryCode": "US",
+      "line1": "205 W. Canon Perdido St.",
+      "postalCode": "93101",
+      "region": "CA"
+    },
+    "description": "This off-the-beaten-path favorite is inspired by California coastal traditions. Set just steps from downtown Santa Barbara, excellent sourcing and quality ingredients may as well as be the kitchen\u0027s mission. The outdoor smoker and grill are enough to lure folks over to their covered patio or casually cool dining room. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-barbara/restaurant/barbareno",
+    "mainPhone": "+18059639591",
+    "name": "Barbareño",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.barbareno.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

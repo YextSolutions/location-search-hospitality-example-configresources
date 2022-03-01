@@ -1,0 +1,24 @@
+{
+  "$id": "12202947",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "579 Castro St.",
+      "postalCode": "94114",
+      "region": "CA"
+    },
+    "description": "Landlubbers seeking a taste of the sea can be found pulling up a stool at this Castro institution, where waves of waiting diners spill out the doors. This tiny, minimally adorned space filled with old-fashioned charm is better for twosomes than groups. While the menu may be petite, it’s ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/anchor-oyster-bar",
+    "mainPhone": "+14154313990",
+    "name": "Anchor Oyster Bar",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.anchoroysterbar.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

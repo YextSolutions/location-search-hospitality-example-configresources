@@ -1,0 +1,21 @@
+{
+  "$id": "12202972",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Monrovia",
+      "countryCode": "US",
+      "line1": "919 W. Duarte Rd.",
+      "postalCode": "91016",
+      "region": "CA"
+    },
+    "description": "It’s hard to order poorly at this delightful retreat, formerly called Luscious Dumplings. The menu is concise, with half of the items dedicated to the eponymous specialty. Indeed this narrow hot spot has been a city-wide favorite since it opened in 2001, and continues to draw lines so long ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-monrovia/restaurant/luscious-dumplings",
+    "mainPhone": "+16268210518",
+    "name": "Luscious Dumplings",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

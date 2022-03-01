@@ -1,0 +1,24 @@
+{
+  "$id": "12202916",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1416 Powell St.",
+      "postalCode": "94133",
+      "region": "CA"
+    },
+    "description": "This dim sum lounge with an old-school charm may look small from the outside, but there’s room for over 100 diners inside its cherry-red dining room—with dozens more hopefuls lined up on the street outside. The largely Chinese crowd attests to the authenticity of the food, which ranges from ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/lai-hong-lounge",
+    "mainPhone": "+14153972290",
+    "name": "Lai Hong Lounge",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.lhklounge.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

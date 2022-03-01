@@ -1,0 +1,21 @@
+{
+  "$id": "12203152",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Barbara",
+      "countryCode": "US",
+      "line1": "38 W. Victoria St.",
+      "postalCode": "93101",
+      "region": "CA"
+    },
+    "description": "The Santa Barbara Public Market is full of alluring eateries, but after your first taste of this charming taco stand, you’ll want to pledge your heart. Chef/owner Ramon Velazquez mastered the craft of handmade tortillas and zesty salsas at the feet of his Guadalajaran mother and grandmother, but he ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-barbara/restaurant/corazon-cocina",
+    "mainPhone": "+18058450282",
+    "name": "Corazon Cocina",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

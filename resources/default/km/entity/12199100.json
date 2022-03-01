@@ -1,0 +1,24 @@
+{
+  "$id": "12199100",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1701 Octavia St.",
+      "postalCode": "94109",
+      "region": "CA"
+    },
+    "description": "One should be so lucky to call Octavia their neighborhood spot. Swarming with locals from lower Pacific Heights, this pretty little dame is tucked among the Victorians that line the street. Sunlight streaming in through the windows lights up its reclaimed wood floors, while an open kitchen hums with ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/octavia",
+    "mainPhone": "+14154087507",
+    "name": "Octavia",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.octavia-sf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

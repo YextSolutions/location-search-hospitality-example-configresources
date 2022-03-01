@@ -1,0 +1,21 @@
+{
+  "$id": "12203137",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Sacramento",
+      "countryCode": "US",
+      "line1": "555 Capitol Mall",
+      "postalCode": "95814",
+      "region": "CA"
+    },
+    "description": "Downtown Sacramento meets sexy uptown London at this foodie haven, where Chef Oliver Ridgeway applies his formidable British culinary know-how to farm-fresh Californian ingredients. Inside, the striking dining room features glossy floor-to-ceiling windows; a polished, forever-bustling bar; as well as a lovely outdoor dining area overlooking Capitol Mall. As ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-sacramento/restaurant/camden-spit-larder",
+    "mainPhone": "+19166198897",
+    "name": "Camden Spit \u0026 Larder",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

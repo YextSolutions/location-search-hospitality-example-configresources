@@ -1,0 +1,24 @@
+{
+  "$id": "12202909",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "2211 Mission St.",
+      "postalCode": "94110",
+      "region": "CA"
+    },
+    "description": "Less mamacita and more Mother Earth, Gracias Madre is definitely not just another laid-back Mexican cantina. This is largely thanks to its strict sourcing standards (tortillas are made from scratch with heirloom corn) and wholesome plant-based food. Large portions showcase plenty of local produce, but that nacho cheese drizzled ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/gracias-madre-sf",
+    "mainPhone": "+14156831346",
+    "name": "Gracias Madre SF",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.gracias-madre.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

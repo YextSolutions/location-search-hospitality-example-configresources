@@ -1,0 +1,24 @@
+{
+  "$id": "12203145",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Redwood City",
+      "countryCode": "US",
+      "line1": "1772 Broadway",
+      "postalCode": "94063",
+      "region": "CA"
+    },
+    "description": "Named after Mexico City’s massive seafood market, La Viga is a Redwood City favorite for oceanic fare with a Latin twist. Wedged between an industrial area and downtown, the basic but cheerful dining room draws a casual lunchtime crowd here for heaping tacos—soft white corn tortillas stuffed with fried ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/redwood-city/restaurant/la-viga-seafood-cocina-mexicana",
+    "mainPhone": "+16506798141",
+    "name": "La Viga Seafood \u0026 Cocina Mexicana",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.lavigaseafood.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

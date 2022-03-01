@@ -1,0 +1,21 @@
+{
+  "$id": "12203085",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Long Beach",
+      "countryCode": "US",
+      "line1": "3441 E. Broadway",
+      "postalCode": "90803",
+      "region": "CA"
+    },
+    "description": "Owner Steve Massis along with Chef Cameron Slaugh are responsible for this craftsman-style house in bustling Long Beach. The bungalow façade gives way to a front porch and fittingly homey interior, featuring a collection of rooms. In the first, there\u0027s a brick fireplace and herringbone-style floors; another, set to ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/long-beach/restaurant/the-attic",
+    "mainPhone": "+15624330153",
+    "name": "The Attic",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203143",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "3378 18th St.",
+      "postalCode": "94110",
+      "region": "CA"
+    },
+    "description": "This unobtrusive yet buzzy ramen house arrives courtesy of Chef Harold Jurado. His modest space displays a clean, streamlined décor, complete with rows of counter seats and a smattering of tables. The menu features Hawaiian favorites, like Spam musubi and pineapple-glazed grilled chicken; impeccably fresh ahi tuna poke; and ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/ramenwell",
+    "mainPhone": "+17736200605",
+    "name": "Ramenwell",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.ramenwell.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

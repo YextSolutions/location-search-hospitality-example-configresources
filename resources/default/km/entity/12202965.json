@@ -1,0 +1,20 @@
+{
+  "$id": "12202965",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Arcadia",
+      "countryCode": "US",
+      "line1": "21 Huntington Dr.",
+      "postalCode": "91006",
+      "region": "CA"
+    },
+    "description": "This stateside location of a popular Asian chain is in fact a sleek and lovely Sichuan destination that prides itself on classic techniques. While ingredients may be imported from near and far, some items are made in-house (including the cured pork belly). An upstairs area is dedicated to gaiwan-cha, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/arcadia/restaurant/chengdu-impression",
+    "name": "Chengdu Impression",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

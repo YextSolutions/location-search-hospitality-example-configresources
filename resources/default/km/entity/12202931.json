@@ -1,0 +1,20 @@
+{
+  "$id": "12202931",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "856 S. Vermont Ave.",
+      "postalCode": "90005",
+      "region": "CA"
+    },
+    "description": "Soowon Galbi is situated right beside a laundromat, so this tidy little destination may not be a top pick among interior design divas. However, it is an authentic darling with two decades under its belt and always delivers when it comes to taste. Pancakes, steamed eggs and banchan start ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/soowon-galbi",
+    "name": "Soowon Galbi",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

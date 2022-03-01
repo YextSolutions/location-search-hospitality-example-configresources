@@ -1,0 +1,15 @@
+{
+  "$id": "restaurants",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Restaurants",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://guide.michelin.com/us/en"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "subPagesUrlStructures": [
+    "https://guide.michelin.com/us/en/*"
+  ]
+}

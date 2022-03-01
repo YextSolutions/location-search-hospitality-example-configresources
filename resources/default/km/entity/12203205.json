@@ -1,0 +1,24 @@
+{
+  "$id": "12203205",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "2339 Clement St.",
+      "postalCode": "94121",
+      "region": "CA"
+    },
+    "description": "In the foggy Outer Richmond, this casual neighborhood pizzeria has quickly become as hot as its wood-fired oven. Local families come in droves to share a pie or a plate of pasta in the vintage-chic dining room, where laid-back servers chat with patrons beneath funky wallpaper depicting a bevy ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/fiorella",
+    "mainPhone": "+14153403049",
+    "name": "Fiorella",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.fiorella-sf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

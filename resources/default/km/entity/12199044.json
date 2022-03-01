@@ -1,0 +1,24 @@
+{
+  "$id": "12199044",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "3 Navy Pier Ct.",
+      "postalCode": "10304",
+      "region": "NY"
+    },
+    "description": "From the breezes blowing off the water to the natural light flooding its contemporary-chic space, this Navy Pier dining retreat is a breath of fresh air.First things first—peruse the cocktail menu, where savory and spicy drinks are a welcome alternative to too-sweet swizzles. Order the green chili vodka-based L’Orto, then ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/seppe-pizza-bar",
+    "mainPhone": "+17187273773",
+    "name": "Seppe Pizza Bar",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.seppepizzabar.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

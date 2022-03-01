@@ -1,0 +1,24 @@
+{
+  "$id": "12202955",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Laguna Beach",
+      "countryCode": "US",
+      "line1": "853 Laguna Canyon Rd.",
+      "postalCode": "92651",
+      "region": "CA"
+    },
+    "description": "Set just minutes from the Pacific Coast Highway, this Italian gem makes a delightful sight. Inside, the dining room oozes warmth, thanks to sleek banquettes, artwork-lined walls and an inviting bar—perfect for solo diners. It paints the very picture of Italian hospitality and that\u0027s even before you\u0027ve had your ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/laguna-beach/restaurant/oliver-s-osteria-mare-e-monti",
+    "mainPhone": "+19497150261",
+    "name": "Oliver\u0027s Osteria Mare e Monti",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.oliversosteria.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

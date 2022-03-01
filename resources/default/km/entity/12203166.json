@@ -1,0 +1,24 @@
+{
+  "$id": "12203166",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Monica",
+      "countryCode": "US",
+      "line1": "2732 Main St.",
+      "postalCode": "90405",
+      "region": "CA"
+    },
+    "description": "Chef Dave Beran presents this captivating French bistro, where standards like onion soup and beef tartare are elevated to their highest reaches. His menu teems with a parade of tempting dishes, thereby creating a particular challenge—keep things light with an endive salad and a delicate amalgam of crab, cream and pickled cauliflower. Otherwise, go full steam with a decadent pâté en croute. Those with deep pockets should apply in advance for the pressed duck for two, already infamous for its cost and limited availability. But the hefty price tag does indeed buy some world-class culinary theatrics, as a chef arrives tableside to work the antique metal press, then reduces the precious juices into a luscious sauce that is spooned over the breast. Should there be room to spare, an exquisite chocolate soufflé paired with vanilla ice cream makes for a dreamy finale. Looking for the ultimate Parisian experience? An elegant marble bar makes for a pretty perch to sip Champagne and spoon osetra caviar onto brown-butter potato chips. And if that\u0027s not enough to make one feel special, remember that Pasjoli\u0027s prices are also inclusive of the tip.,",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-monica/restaurant/pasjoli",
+    "mainPhone": "+14243300020",
+    "name": "Pasjoli",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.pasjoli.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

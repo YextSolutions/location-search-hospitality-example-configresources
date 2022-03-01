@@ -1,0 +1,24 @@
+{
+  "$id": "12199041",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "704 Bay St.",
+      "postalCode": "10304",
+      "region": "NY"
+    },
+    "description": "As its name would suggest, this bijou on Bay Street is centered around wines, with many offered by the glass. Inside, find an unexpected décor that looks and feels like an osteria out of Italy. The menu is designed for sharing, making the salumi and cheese platters a prevalent ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/vinum",
+    "mainPhone": "+17184488466",
+    "name": "Vinum",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.vinumnyc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

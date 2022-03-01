@@ -1,0 +1,24 @@
+{
+  "$id": "12198958",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Aptos",
+      "countryCode": "US",
+      "line1": "174 Aptos Village Way",
+      "postalCode": "95003",
+      "region": "CA"
+    },
+    "description": "Culinary devotees flock to Aptos for its deluxe food spots, boutique coffee shops, and supermarkets aplenty. Jumping on the bandwagon is this delicious operation with a single mission—to churn out the most memorable and addictive pizzas in town. Soft hues, dark green-framed doors, and a barn-like structure foster a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/aptos/restaurant/mentone",
+    "mainPhone": "+18317084040",
+    "name": "Mentone",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.mentonerestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

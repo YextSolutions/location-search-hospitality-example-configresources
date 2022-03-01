@@ -1,0 +1,24 @@
+{
+  "$id": "12203225",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "919 Cortland Ave.",
+      "postalCode": "94110",
+      "region": "CA"
+    },
+    "description": "Tucked into SF’s hilly hinterlands, in a quiet enclave away from the hubbub of the urban center, this Bernal Heights retreat has the potential to be overlooked. But, thanks to the steady hand of Chef/owner Greg Lutes (whose eclectic seasonal cooking earned him many a fan at a series ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/3rd-cousin",
+    "mainPhone": "+14158143709",
+    "name": "3rd Cousin",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.3rdcousinsf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

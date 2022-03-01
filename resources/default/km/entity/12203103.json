@@ -1,0 +1,24 @@
+{
+  "$id": "12203103",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Gatos",
+      "countryCode": "US",
+      "line1": "57 Los Gatos-Saratoga Rd.",
+      "postalCode": "95032",
+      "region": "CA"
+    },
+    "description": "ASA South is like your good looking friend, who also just so happens to be the perfect dining companion. The space is plain likable, featuring a chic dining room set with sleek furnishings, silver bark-like wallpaper and black-and-white photos. And then there\u0027s the kitchen, which doesn\u0027t take itself too ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/los-gatos/restaurant/asa-south",
+    "mainPhone": "+14085407004",
+    "name": "ASA South",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.asalosaltos.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

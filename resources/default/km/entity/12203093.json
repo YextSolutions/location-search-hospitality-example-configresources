@@ -1,0 +1,21 @@
+{
+  "$id": "12203093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "West Hollywood",
+      "countryCode": "US",
+      "line1": "9040 Sunset Blvd.",
+      "postalCode": "90069",
+      "region": "CA"
+    },
+    "description": "Set in a swanky hotel, this babe is ultra-chic, attracting an A-list crowd. It\u0027s all very handsome inside, with white velvet and leather booths nestled amid greenery for a rain forest feel. The well-trained staff keep things humming along. As per the name, Chef John Fraser puts his passion ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/west-hollywood/restaurant/ardor",
+    "mainPhone": "+14243101572",
+    "name": "Ardor",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

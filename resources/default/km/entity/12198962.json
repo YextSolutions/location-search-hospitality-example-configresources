@@ -1,0 +1,24 @@
+{
+  "$id": "12198962",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1552 Fillmore St.",
+      "postalCode": "94115",
+      "region": "CA"
+    },
+    "description": "This ambitious concept started life as a pop-up, before taking up brick-and-mortar residence. The ground floor—where patrons are greeted amidst splashes of blue and white—gives way to a moody, monochromatic, and swanky upstairs. The impressive menu pays homage to Chef/owner Rodney Wages\u0027 experiences at some of the city’s most ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/avery",
+    "mainPhone": "+14158171187",
+    "name": "Avery",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.averysf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12199081",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "5014 Connecticut Ave. NW",
+      "postalCode": "20008",
+      "region": "DC"
+    },
+    "description": "Murals of Italian icons, communal tables, glass bottles that double as room dividers, greenery and skylights round out the easy-breezy vibe of Eddie Cano. A strong dose of tongue-in-cheek kitsch makes it impossible not to adore it, yet, there\u0027s nothing funny about the food—the kitchen turns out serious dishes in ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/i-m-eddie-cano",
+    "mainPhone": "+12028904995",
+    "name": "I\u0027m Eddie Cano",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.imeddiecano.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203273",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "412 N. Fairfax Ave.",
+      "postalCode": "90036",
+      "region": "CA"
+    },
+    "description": "Those namesake chefs, Jon Shook and Vinny Dotolo, bring serious talent and experience to this easygoing Italian-American café—they are in fact two of the Trois Mecs (with Ludo Lefebvre). The slender room features a branded display of pizza boxes, counter seating and a wide-open kitchen with views of the wood-fired grill and blazing oven. And those chewy, tender pies boast a blistered crust with creative toppings, like the Roman Gladiator heaped high with meat. Another treat is the Salad Days, tastefully decked with thick tomato sauce beneath bits of crunchy gem lettuce, sungold tomatoes and shaved caciocavallo in a garlic dressing. House-made pastas of all strands and shapes are equally tempting, especially when bathed in their six-hour Bolognese.",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/jon-vinny%E2%80%99s",
+    "mainPhone": "+13233343369",
+    "name": "Jon \u0026 Vinny’s",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.jonandvinnys.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

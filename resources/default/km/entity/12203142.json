@@ -1,0 +1,21 @@
+{
+  "$id": "12203142",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "2030 Sawtelle Blvd.",
+      "postalCode": "90025",
+      "region": "CA"
+    },
+    "description": "This sister spot to ramen palace Tsujita specializes in tan tan ramen, a Japanese favorite that’s equal parts tantanmen (dipping ramen) and spicy Sichuan dan dan noodles. The original bowl is light and gently herbaceous, with bold notes of peanut and garlic accenting the ground pork and tofu, while ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/killer-noodle",
+    "mainPhone": "+14242930474",
+    "name": "Killer Noodle",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

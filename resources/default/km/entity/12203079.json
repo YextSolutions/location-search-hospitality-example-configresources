@@ -1,0 +1,24 @@
+{
+  "$id": "12203079",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Beverly Hills",
+      "countryCode": "US",
+      "line1": "212 N. Cañon Dr.",
+      "postalCode": "90210",
+      "region": "CA"
+    },
+    "description": "Nozawa Bar is an extraordinary little jewel box of a room and sushi counter, secreted away in the back of the Beverly Hills location of Sugarfish. Yet its menu, kitchen and overall spirit are totally independent of the local chain restaurant in which it is housed. Be sure to ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/beverly-hills/restaurant/nozawa-bar",
+    "mainPhone": "+14242166158",
+    "name": "Nozawa Bar",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.nozawabar.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12202929",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "5115 Wilshire Blvd.",
+      "postalCode": "90036",
+      "region": "CA"
+    },
+    "description": "Set slightly west of the Koreatown pack is a dining room that feels more polished and upscale than your typical Korean barbecue dining. Their high-quality meats are deftly handled by the staff, who intensely marinate them for searing on the grill and then slicing right before your eyes. Servers ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/genwa",
+    "mainPhone": "+13235490760",
+    "name": "Genwa",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.genwakoreanbbq.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

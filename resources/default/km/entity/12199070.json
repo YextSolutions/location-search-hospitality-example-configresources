@@ -1,0 +1,24 @@
+{
+  "$id": "12199070",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "1822 1st St. NW",
+      "postalCode": "20001",
+      "region": "DC"
+    },
+    "description": "You’ll want to wake up with the rooster to score a reservation at this rustic Italian gem as it’s incredibly popular, and ergo, always packed. Walk-ins can snag a seat at the three-sided bar that anchors the room, decked out in full country charm with exposed brick walls, reclaimed ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/the-red-hen",
+    "mainPhone": "+12025253021",
+    "name": "The Red Hen",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.theredhendc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "12203048",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "1011 Fort Stockton Dr.",
+      "postalCode": "92103",
+      "region": "CA"
+    },
+    "description": "It\u0027s named for the majestic oaks of nearby Presidio Park, but this Mission Hills eatery is no friend to trees—at least, not the ones that fuel its beast of a wood-burning hearth, through which nearly every item passes. Yet the arboreal sacrifice is a worthy one as Chef Brad ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/fort-oak",
+    "mainPhone": "+16197223398",
+    "name": "Fort Oak",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

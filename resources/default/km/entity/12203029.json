@@ -1,0 +1,24 @@
+{
+  "$id": "12203029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "1710 Silver Lake Blvd.",
+      "postalCode": "90026",
+      "region": "CA"
+    },
+    "description": "Set amidst fashionable shops and eateries in a hipster neighborhood, this Italian-influenced restaurant\u0027s modern house with a much-talked-about terrace doubles as a headquarters for area denizens. The young, stylish staff is highly dedicated to delivering a pleasant experience without putting on any airs. The menu is equally unpretentious, with ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/alimento",
+    "mainPhone": "+13239282888",
+    "name": "Alimento",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.alimentola.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

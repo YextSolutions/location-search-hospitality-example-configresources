@@ -1,0 +1,24 @@
+{
+  "$id": "12200697",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Napa",
+      "countryCode": "US",
+      "line1": "1400 2nd St.",
+      "postalCode": "94559",
+      "region": "CA"
+    },
+    "description": "Around the world in four courses without ever leaving the wine country? It’s possible at this bright and beloved downtown Napa space that balances fun with excellence. Only here can a top-notch tamale filled with chipotle-pulled pork, green chile and black beans be followed by cassoulet that would do ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/napa/restaurant/grace’s-table",
+    "mainPhone": "+17072266200",
+    "name": "Grace’s Table",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.gracestable.net"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

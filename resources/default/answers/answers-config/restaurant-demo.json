@@ -1,0 +1,88 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "restaurant-demo",
+  "name": "restaurant-demo",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "locations": {
+      "directAnswers": {
+        "fieldValues": {
+          "eligibleFields": [
+            "mainPhone",
+            "emails",
+            "websiteUrl",
+            "landingPageUrl",
+            "address.line1",
+            "address.city"
+          ],
+          "predictionMode": "CLASSIFIER"
+        }
+      },
+      "entityTypes": [
+        "location"
+      ],
+      "name": "Locations",
+      "searchableFields": {
+        "address.city": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "address.line1": {
+          "phraseMatch": true
+        },
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "description": {
+          "documentSearch": true
+        },
+        "keywords": {
+          "phraseMatch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "rules": [
+    {
+      "criteria": {
+        "searchTermMatchesRegex": "^$",
+        "searchTypes": "UNIVERSAL"
+      },
+      "actions": [
+        {
+          "actionType": "RETURN_PINNED_RESULT",
+          "verticals": [
+            {
+              "savedFilterId": "848685007",
+              "verticalKey": "locations"
+            }
+          ]
+        }
+      ],
+      "name": "Default on Initial Search"
+    }
+  ],
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [],
+    "verticalPrompts": {
+      "locations": [
+        "Locations near [[address.city]]",
+        "Locations near [[address.region]]"
+      ]
+    }
+  }
+}

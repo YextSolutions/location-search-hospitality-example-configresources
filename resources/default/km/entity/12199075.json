@@ -1,0 +1,24 @@
+{
+  "$id": "12199075",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "1120 Maine Ave. SW",
+      "postalCode": "20024",
+      "region": "DC"
+    },
+    "description": "Chef Nicholas Stefanelli (of Masseria) launched this impressive multi-story ode to Italy. The first floor has an easy-going café and bar, as well as a market for picking up wine, cheese, and house-cured beef and charcuterie. Meanwhile, the heart of this place, a sun-lit trattoria anchored by an open kitchen, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/officina",
+    "mainPhone": "+12027475222",
+    "name": "Officina",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.officinadc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

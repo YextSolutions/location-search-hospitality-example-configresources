@@ -1,0 +1,24 @@
+{
+  "$id": "12202988",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Redondo Beach",
+      "countryCode": "US",
+      "line1": "1810 S. Catalina Ave.",
+      "postalCode": "90277",
+      "region": "CA"
+    },
+    "description": "Welcome to this modern gem, dressed in earthy hues, vibrant tiles, and leather booths. Unique wall sconces exude an amber glow, while concrete floors epitomize the rustic-chic spirit. Over in the kitchen, the team may be found preparing a litany of Spanish and coastal French plates, finished with California ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/redondo-beach/restaurant/gabi-james",
+    "mainPhone": "+13105404884",
+    "name": "Gabi James",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.gabijamesla.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

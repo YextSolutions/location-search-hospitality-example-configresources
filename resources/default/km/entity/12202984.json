@@ -1,0 +1,24 @@
+{
+  "$id": "12202984",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Berkeley",
+      "countryCode": "US",
+      "line1": "2026 San Pablo Ave.",
+      "postalCode": "94702",
+      "region": "CA"
+    },
+    "description": "This Spanish delight from the team behind acclaimed caterer Ñora Cocina Española does double duty as a mecca for both tapas and paella, offered in varieties from the traditional mixta (prawns, chicken, chorizo, garlic, peppers) to the inventive “tres cerditos” (three little pigs) featuring pork chorizo, shoulder and belly. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/berkeley/restaurant/la-marcha",
+    "mainPhone": "+15106479525",
+    "name": "La Marcha",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.lamarchaberkeley.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

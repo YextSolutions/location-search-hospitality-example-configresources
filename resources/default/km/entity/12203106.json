@@ -1,0 +1,21 @@
+{
+  "$id": "12203106",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Gabriel",
+      "countryCode": "US",
+      "line1": "708 E. Las Tunas Dr.",
+      "postalCode": "91776",
+      "region": "CA"
+    },
+    "description": "Made in-house, noodles at this special spot arrive in all sorts of preparations, each more delicious than the next. Think dan dan, a springy mix of strands slicked with chili oil, ground pork, peanuts and bok choy; or fragrant, boldly seasoned soups like spicy beef noodle. Chili oil fans ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-gabriel/restaurant/chongqing-special-noodles",
+    "mainPhone": "+16263741849",
+    "name": "Chongqing Special Noodles",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

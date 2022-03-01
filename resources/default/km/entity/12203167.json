@@ -1,0 +1,24 @@
+{
+  "$id": "12203167",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Monica",
+      "countryCode": "US",
+      "line1": "1104 Wilshire Blvd.",
+      "postalCode": "90401",
+      "region": "CA"
+    },
+    "description": "Chef Josiah Citrin\u0027s iconic dining room is back up and running—even thriving—as it continues to bring old-world charm to this on-trend neighborhood. His expertise lies in delivering a certain fine-dining experience that never goes out of style. It\u0027s a lovely change of pace for anyone looking to slow down ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-monica/restaurant/melisse",
+    "mainPhone": "+13103950881",
+    "name": "Mélisse",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.citrinandmelisse.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

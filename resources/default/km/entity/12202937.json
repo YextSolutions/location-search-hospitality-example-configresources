@@ -1,0 +1,24 @@
+{
+  "$id": "12202937",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Redwood City",
+      "countryCode": "US",
+      "line1": "917 Main St.",
+      "postalCode": "94063",
+      "region": "CA"
+    },
+    "description": "The kitchen team at this Redwood City rookie maintains their reign as one of the Bay Area\u0027s passionate ambassador for Indonesian cuisine. Situated on the main drag, rows of simply adorned wood tables welcome patrons from near and far to this cozy and well-designed space. There\u0027s a buzzing vibe ...,",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/redwood-city/restaurant/warung-siska",
+    "mainPhone": "+16503935515",
+    "name": "Warung Siska",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.warungsiska.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

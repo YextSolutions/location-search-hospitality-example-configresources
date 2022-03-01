@@ -1,0 +1,21 @@
+{
+  "$id": "12202981",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Beverly Hills",
+      "countryCode": "US",
+      "line1": "9777 S. Santa Monica Blvd.",
+      "postalCode": "90210",
+      "region": "CA"
+    },
+    "description": "There are few restaurants in the nation dedicated to tempura, but Endo makes a legitimate case for this impossibly delicate and difficult technique. Its distinguished reputation in Japan has made inroads in LA, presenting the artistic style of cooking that is so much more than just “frying.” For a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/beverly-hills/restaurant/tempura-endo",
+    "mainPhone": "+13102742201",
+    "name": "Tempura Endo",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

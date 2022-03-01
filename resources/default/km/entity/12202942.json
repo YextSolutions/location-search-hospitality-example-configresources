@@ -1,0 +1,24 @@
+{
+  "$id": "12202942",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "2619 Sunset Blvd.",
+      "postalCode": "90026",
+      "region": "CA"
+    },
+    "description": "This is a Jewish deli with an old soul. Inside, the décor is classic bubbe, arranged with floral wallpaper, wood floors and marble-topped tables. There’s even a vintage rotary phone mounted on the back wall that serves as a conversation piece or perhaps even a gentle reminder to call ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/freedman’s",
+    "mainPhone": "+12135683754",
+    "name": "Freedman’s",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.freedmansla.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

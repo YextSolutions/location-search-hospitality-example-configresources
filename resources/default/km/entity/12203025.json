@@ -1,0 +1,24 @@
+{
+  "$id": "12203025",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "641 N. Highland Ave.",
+      "postalCode": "90036",
+      "region": "CA"
+    },
+    "description": "Mozza is at its essence a pizzeria, but so much more than a mere neighborhood haunt. Why, you might ask? It boasts the presence of Co-owner Nancy Silverton, whose culinary pedigree has foodies flocking to this Hollywood hottie. Adding to that, its sunny-yellow exterior and orange canopy set a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/pizzeria-mozza",
+    "mainPhone": "+13232970101",
+    "name": "Pizzeria Mozza",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.pizzeriamozza.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "12203122",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Cerritos",
+      "countryCode": "US",
+      "line1": "13333 South St.",
+      "postalCode": "90703",
+      "region": "CA"
+    },
+    "c_defaultOnInitialSearch": true,
+    "description": "Yet another in the wave of Mexican-American LA chefs transforming the cuisine, Thomas Ortega brings his fine-dining drill to bear on this vibrant offering in his native Cerritos. Here he fuses his specific style of the city’s Mexican cuisine, like handmade tortillas and spicy salsas, with an American twist. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/cerritos/restaurant/amor-y-tacos",
+    "mainPhone": "+15628602667",
+    "name": "Amor y Tacos",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.amorytacos.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

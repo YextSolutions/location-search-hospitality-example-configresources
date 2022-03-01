@@ -1,0 +1,24 @@
+{
+  "$id": "12203135",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "2301 Clement St.",
+      "postalCode": "94121",
+      "region": "CA"
+    },
+    "description": "Laidback-chic restaurants are have finally arrived to meet the needs of the Richmond’s increasingly young and affluent residents. Following suit, Violet’s is the first among equals, serving an enticing menu of raw-bar gems, hearty entrées, and cocktails. Done up in hues of blue and green and outfitted with a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/violet-s",
+    "mainPhone": "+14156824861",
+    "name": "Violet\u0027s",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.violets-sf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

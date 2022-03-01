@@ -1,0 +1,21 @@
+{
+  "$id": "12203224",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "300 Precita Ave.",
+      "postalCode": "94110",
+      "region": "CA"
+    },
+    "description": "This pretty-as-a-picture location is perched on the edge of Precita Park (a veritable sliver of green on the North slope of Bernal Heights) and on the ground floor of a handsome slate-blue Victorian. On the inside, the design is rather spare, with all eyes solely focused on the carefully ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/marlena",
+    "mainPhone": "+14154005997",
+    "name": "Marlena",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

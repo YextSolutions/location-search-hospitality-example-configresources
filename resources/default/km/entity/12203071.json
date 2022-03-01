@@ -1,0 +1,24 @@
+{
+  "$id": "12203071",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "8385 Beverly Blvd.",
+      "postalCode": "90048",
+      "region": "CA"
+    },
+    "description": "Once home to Hirozen, helmed for 15 years by Osaka chef Naruki Matsumoto, this bright little space is today his own sushi-ya, serving a straightforward selection of maki and nigiri crafted from fish sourced straight from Japan. No detail is overlooked by the kitchen—from the fine-grained rice that\u0027s judiciously ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/matsumoto",
+    "mainPhone": "+13236530470",
+    "name": "Matsumoto",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.matsumoto-restaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

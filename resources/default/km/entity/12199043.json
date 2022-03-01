@@ -1,0 +1,21 @@
+{
+  "$id": "12199043",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "668 Bay St.",
+      "postalCode": "10304",
+      "region": "NY"
+    },
+    "description": "Prepare for a sensory overload the moment you set foot into Lakruwana—the Sri Lankan hot spot is covered from floor-to-ceiling in murals, sculptures, flags, and more. The kaleidoscope of textures and colors is a welcome sight in an otherwise downtrodden part of the borough, as is the energetic owner ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/lakruwana",
+    "mainPhone": "+13478576619",
+    "name": "Lakruwana",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

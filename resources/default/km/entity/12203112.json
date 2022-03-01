@@ -1,0 +1,20 @@
+{
+  "$id": "12203112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "5037 Geary Blvd.",
+      "postalCode": "94118",
+      "region": "CA"
+    },
+    "description": "One of the brightest offerings on Geary Boulevard, Sichuan Home lures diners far and wide. Its spotless dining room is a vision of varnished wood panels and mirrors, with plexiglass-topped tables for easy chili oil clean-up and menus that feature tempting photos of each item. A sampling of the ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/sichuan-home",
+    "name": "Sichuan Home",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

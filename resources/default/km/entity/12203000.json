@@ -1,0 +1,24 @@
+{
+  "$id": "12203000",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Corte Madera",
+      "countryCode": "US",
+      "line1": "341 Corte Madera Town Centre",
+      "postalCode": "94925",
+      "region": "CA"
+    },
+    "description": "Don’t be fooled by its suburban location, as this is some of the best barbecue in the Bay Area. Chef/owner Damon Stainbrook takes his sourcing seriously, as evidenced by the chalkboard outlining where each humanely raised, hormone-free cut of meat arrives from. The counter service is warm, casual and ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/corte-madera/restaurant/pig-in-a-pickle",
+    "mainPhone": "+14158913265",
+    "name": "Pig in a Pickle",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.piginapickle.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

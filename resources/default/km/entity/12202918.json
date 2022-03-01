@@ -1,0 +1,21 @@
+{
+  "$id": "12202918",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1123 Taraval St.",
+      "postalCode": "94116",
+      "region": "CA"
+    },
+    "description": "You’ll know there is indeed something special going on here when you see the number of regulars pack into the tiny, no-frills space, which claims a whopping four tables and small takeaway counter to its name. The owners are a father-daughter duo (Paul and Rebecca Yu) who originally had ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/dumpling-specialist",
+    "mainPhone": "+14156401403",
+    "name": "Dumpling Specialist",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

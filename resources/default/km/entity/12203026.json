@@ -1,0 +1,24 @@
+{
+  "$id": "12203026",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "La Jolla",
+      "countryCode": "US",
+      "line1": "7863 Girard Ave.",
+      "postalCode": "92037",
+      "region": "CA"
+    },
+    "description": "In the historic heart of La Jolla, find this cool and hip retreat on the top floor of the Plaza Center. The artfully designed dining room features sunny Mediterranean colors and ceramic tiles. A large, elegant terrace offers panoramic coastline views. Come early for their aperitivo (cocktails and snacks), ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/la-jolla/restaurant/catania",
+    "mainPhone": "+18585515105",
+    "name": "Catania",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.cataniasd.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

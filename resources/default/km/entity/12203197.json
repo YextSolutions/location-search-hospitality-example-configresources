@@ -1,0 +1,22 @@
+{
+  "$id": "12203197",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1601 Howard St.",
+      "postalCode": "94103",
+      "region": "CA"
+    },
+    "c_defaultOnInitialSearch": true,
+    "description": "Sri Lankan flavors infuse the dishes at this quiet winner, which also employs Western ingredients to arrive at its very own delicious concoctions. For a more extensive exploration of this island nation’s cuisine, go for the tasting menu. Or, lean untraditional with the lamprais, perhaps a French bacon-wrapped rabbit ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/1601-bar-kitchen",
+    "mainPhone": "+14155521601",
+    "name": "1601 Bar \u0026 Kitchen",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

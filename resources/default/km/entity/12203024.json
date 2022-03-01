@@ -1,0 +1,24 @@
+{
+  "$id": "12203024",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "6602 Melrose Ave.",
+      "postalCode": "90038",
+      "region": "CA"
+    },
+    "description": "A mega hit since opening over a decade ago, this Hollywood darling—sitting on a prominent corner of Melrose Avenue—continues to please with creative cocktails and delicious Italian cuisine. Its entrance is clearly marked outside the massive one-story building, though it is also home to Pizzeria Mozza, as well as ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/osteria-mozza",
+    "mainPhone": "+13232970100",
+    "name": "Osteria Mozza",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.osteriamozza.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

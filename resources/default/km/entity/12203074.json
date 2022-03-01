@@ -1,0 +1,24 @@
+{
+  "$id": "12203074",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "West Hollywood",
+      "countryCode": "US",
+      "line1": "609 N. La Cienega Blvd.",
+      "postalCode": "90069",
+      "region": "CA"
+    },
+    "description": "Sushi aficionados may have to look a little harder to discover this jewel box, hidden among a host of high-end boutiques. Sushi Ginza Onodera may have outposts around the world, but its fame has not diluted the exemplary quality of this cuisine. That said, it comes with a hefty ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/west-hollywood/restaurant/sushi-ginza-onodera-559850",
+    "mainPhone": "+13234334817",
+    "name": "Sushi Ginza Onodera",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.onodera-group.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

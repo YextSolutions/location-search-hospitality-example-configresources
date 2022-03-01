@@ -1,0 +1,24 @@
+{
+  "$id": "12203049",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Pasadena",
+      "countryCode": "US",
+      "line1": "510 S. Arroyo Pkwy.",
+      "postalCode": "91105",
+      "region": "CA"
+    },
+    "description": "Parkway Grill may be known to have ushered in the open kitchen and exposed brick phenomenon back in the 1980s; and while many of the servers have been here for decades as well, this Pasadena favorite never shows her age. In fact, it\u0027s always bustling with a convivial scene ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/pasadena/restaurant/parkway-grill",
+    "mainPhone": "+16267951001",
+    "name": "Parkway Grill",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.theparkwaygrill.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

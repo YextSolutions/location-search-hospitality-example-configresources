@@ -1,0 +1,24 @@
+{
+  "$id": "12203014",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "3131 Fillmore St.",
+      "postalCode": "94123",
+      "region": "CA"
+    },
+    "description": "It may be located next to Chef Dominique Crenn’s notable Atelier Crenn, but Bar Crenn is a destination in its own right. Designed with an eye on Paris during Les Années Folles with a splash of speakeasy, this room is a flea market-chic amalgam of cozy lounge furniture, glinting ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/bar-crenn",
+    "mainPhone": "+14154400460",
+    "name": "Bar Crenn",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.barcrenn.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

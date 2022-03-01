@@ -1,0 +1,23 @@
+{
+  "$id": "12203158",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Alamos",
+      "countryCode": "US",
+      "line1": "406 Bell St.",
+      "postalCode": "93440",
+      "region": "CA"
+    },
+    "description": "This invitingly rustic dining room is nestled within a historic structure—a former bank—with a blue door flanked by potted palms. Inside, the furnishings exude a vintage vibe, as evidenced by weathered tile floors, whitewashed brick walls, and metal signs. An open window offers a peek into the kitchen, buzzing ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/los-alamos/restaurant/bell-s",
+    "name": "Bell\u0027s",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.bellsrestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203161",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "La Jolla",
+      "countryCode": "US",
+      "line1": "2000 Spindrift Dr.",
+      "postalCode": "92037",
+      "region": "CA"
+    },
+    "description": "The Marine Room lures a well-heeled crowd to its sleek environs. Set within a luxury beach resort in the exclusive La Jolla enclave, it feels every bit the posh club. It’s also a romantic spot to celebrate a special date, thanks to those dramatic sea views at sundown—when a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/la-jolla/restaurant/marine-room",
+    "mainPhone": "+18559238057",
+    "name": "Marine Room",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.marineroom.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203021",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "6610 Melrose Ave.",
+      "postalCode": "90038",
+      "region": "CA"
+    },
+    "description": "The carnivorous heart of Nancy Silverton’s “Mozzaplex” is as intimate and engaging as it is expensive—a place to splurge on date night with a special vintage and view of the bustling wood-fired oven and grill. The result is a modern Italian take on the old-school steakhouse, with the focaccia ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/chi-spacca",
+    "mainPhone": "+13232971133",
+    "name": "Chi Spacca",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.chispacca.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

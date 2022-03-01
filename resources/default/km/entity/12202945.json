@@ -1,0 +1,24 @@
+{
+  "$id": "12202945",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Beverly Hills",
+      "countryCode": "US",
+      "line1": "400 N. Cañon Dr.",
+      "postalCode": "90210",
+      "region": "CA"
+    },
+    "description": "This neighborhood darling is a citywide favorite, so if dining indoors, reservations are strongly recommended. The sunny outdoor terrace is the kind of destination where jubilant crowds of people flock to, largely to be seen sipping Montepulciano at one of the tightly spaced tables. Then again, some are surely ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/beverly-hills/restaurant/il-pastaio",
+    "mainPhone": "+13102055444",
+    "name": "Il Pastaio",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.giacominodrago.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

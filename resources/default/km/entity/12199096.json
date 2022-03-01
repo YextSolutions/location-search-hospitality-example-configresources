@@ -1,0 +1,21 @@
+{
+  "$id": "12199096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1365 Fillmore St.",
+      "postalCode": "94115",
+      "region": "CA"
+    },
+    "description": "Plan ahead to secure tickets to this intimate den, where there are just a handful of seats and dinner is served only four nights a week. Dining here is a singular experience—though simple, the room flaunts an impressive fiber piece from a local artisan, custom-made tableware, and other hand-hewn ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/merchant-roots",
+    "mainPhone": "+15305747365",
+    "name": "Merchant Roots",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

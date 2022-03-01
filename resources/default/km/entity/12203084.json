@@ -1,0 +1,24 @@
+{
+  "$id": "12203084",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "5359 W. Adams Blvd.",
+      "postalCode": "90016",
+      "region": "CA"
+    },
+    "description": "This is the kind of homey and comforting spot that anyone would be glad to have in their neighborhood, but would just as happily drive to find. Generous portions make it a favorite for family-style and group dining. The lovely back patio is draped with string lights and vines, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/alta-adams",
+    "mainPhone": "+13235714999",
+    "name": "Alta Adams",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.altaadams.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

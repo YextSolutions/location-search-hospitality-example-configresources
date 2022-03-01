@@ -1,0 +1,24 @@
+{
+  "$id": "12203226",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "3856 24th St.",
+      "postalCode": "94114",
+      "region": "CA"
+    },
+    "description": "Hilly Noe Valley is the perfect setting for this jewel of a sushi restaurant, so make your way inside to discover a bustling (read: energetic) vibe. The menu is thoroughly Japanese with a few Californian touches—think grilled shishito peppers tossed with crunchy daikon in a ponzu dressing. Be sure ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/saru",
+    "mainPhone": "+14154004510",
+    "name": "Saru",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.akaisarusf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

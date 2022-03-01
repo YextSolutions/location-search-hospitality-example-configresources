@@ -1,0 +1,24 @@
+{
+  "$id": "12199093",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1529 Fillmore St.",
+      "postalCode": "94115",
+      "region": "CA"
+    },
+    "description": "Welcome to the evolution of fine dining, where streams of plates are passed between guests in dim sum-style, and the supremely seasonal Californian cooking is always very good; even vibrant and surprising. You may not understand all of what you ordered at first, but prices are reasonable so pile ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions",
+    "mainPhone": "+14157951272",
+    "name": "State Bird Provisions",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.statebirdsf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12198959",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Oakland",
+      "countryCode": "US",
+      "line1": "6317 College Ave.",
+      "postalCode": "94618",
+      "region": "CA"
+    },
+    "description": "There’s always a crowd at this neighborhood standby, where friends, families, and chic couples congregate for drinks at the copper-topped bar. Flanked by organic groceries, indie bookstores and antique shops, its environs speak of peace, weaving a bohemian spell that captivates both regulars and rookies alike. Seasonal Californian cooking ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/oakland/restaurant/wood-tavern",
+    "mainPhone": "+15106546607",
+    "name": "Wood Tavern",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.woodtavern.net"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

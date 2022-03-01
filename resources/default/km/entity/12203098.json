@@ -1,0 +1,21 @@
+{
+  "$id": "12203098",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Coronado",
+      "countryCode": "US",
+      "line1": "1500 Orange Ave.",
+      "postalCode": "92118",
+      "region": "CA"
+    },
+    "description": "If the historic “Hotel Del” is the jewel of Coronado Island, then snagging a seat on Serẽa’s sprawling patio is like nestling into said jewel box. Thanks to its stunning views of the hotel\u0027s landscaped grounds and the ocean beyond, this is one of the prettiest perches in all ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/coronado/restaurant/serea-coastal-cuisine",
+    "mainPhone": "+16194356611",
+    "name": "Serẽa Coastal Cuisine",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

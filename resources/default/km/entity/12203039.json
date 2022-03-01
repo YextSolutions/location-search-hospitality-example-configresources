@@ -1,0 +1,24 @@
+{
+  "$id": "12203039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Newport Beach",
+      "countryCode": "US",
+      "line1": "3441 Via Lido",
+      "postalCode": "92663",
+      "region": "CA"
+    },
+    "description": "With its elegant design and backdrop of the sparkling sea, this fabled spot doesn\u0027t have to try that hard to win fans. And yet, it never rests solely on its good looks. The room is packed with an unmistakable hum of happy diners diving into delicious pub grub. The ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/newport-beach/restaurant/fable-spirit",
+    "mainPhone": "+19494099913",
+    "name": "Fable \u0026 Spirit",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.fableandspirit.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

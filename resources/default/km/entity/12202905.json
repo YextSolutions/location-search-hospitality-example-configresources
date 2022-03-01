@@ -1,0 +1,24 @@
+{
+  "$id": "12202905",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "370 14th St.",
+      "postalCode": "94103",
+      "region": "CA"
+    },
+    "description": "At first glance, this stylish izakaya and sushi bar could be another in a line of similar places that dot the San Francisco landscape were it not for a major twist: everything on the menu is vegan. Purists and die-hard carnivores may scoff, but the food is exceptional, skillfully ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/shizen",
+    "mainPhone": "+14156785767",
+    "name": "Shizen",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.shizensf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

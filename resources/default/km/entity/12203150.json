@@ -1,0 +1,21 @@
+{
+  "$id": "12203150",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "4880 Fountain Ave.",
+      "postalCode": "90029",
+      "region": "CA"
+    },
+    "description": "There is no ocean in sight from this busy corner of East Hollywood, and yet, a single Santa Barbara spot prawn dressed with yuzu ponzu arrives so pristine and plump you\u0027ll wonder if it swam to your table when you weren’t looking. Then meaty, freshly harvested scallops from Maine ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/found-oyster",
+    "mainPhone": "+13234867920",
+    "name": "Found Oyster",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

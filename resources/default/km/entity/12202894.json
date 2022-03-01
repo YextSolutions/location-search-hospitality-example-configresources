@@ -1,0 +1,24 @@
+{
+  "$id": "12202894",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "7963 Melrose Ave.",
+      "postalCode": "90046",
+      "region": "CA"
+    },
+    "description": "This may be the land of big, glitzy steakhouses, but Carlitos Gardel offers guests something more refined and quiet, with juicy meats and empanadas that have people coming back again and again. The evening mood here is romantic, and often accompanied by live piano music. There are larger seating ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/carlitos-gardel",
+    "mainPhone": "+13236550891",
+    "name": "Carlitos Gardel",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.carlitosgardel.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "12203091",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "4142 Geary Blvd.",
+      "postalCode": "94118",
+      "region": "CA"
+    },
+    "description": "Its façade might not seem like much—look for the bright orange tile and prominent sign advertising Mandarin cuisine—but rest easy as this quiet, longstanding Chinese staple is a favorite of cooking icon, Cecilia Chiang. Inside, you’ll find a warm and inviting décor, starring white linens and a crimson carpet—it\u0027s ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/five-happiness",
+    "mainPhone": "+14153871234",
+    "name": "Five Happiness",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

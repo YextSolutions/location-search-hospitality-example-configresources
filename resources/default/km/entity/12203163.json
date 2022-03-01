@@ -1,0 +1,21 @@
+{
+  "$id": "12203163",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1454 Grant Ave.",
+      "postalCode": "94133",
+      "region": "CA"
+    },
+    "description": "Café Jacqueline is a restaurant from another time, but for those who appreciate its eccentricities, it’s a total treasure. Savory and sweet soufflés big enough for two make up the entirety of the menu, but getting one requires endurance. Reservations are by phone only, though the staff rarely answers, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/cafe-jacqueline",
+    "mainPhone": "+14159815565",
+    "name": "Café Jacqueline",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "12203072",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Beverly Hills",
+      "countryCode": "US",
+      "line1": "265 S. Robertson Blvd.",
+      "postalCode": "90211",
+      "region": "CA"
+    },
+    "description": "The first stateside branch of the acclaimed Yasu Toronto, this outpost is akin to a jewel in the crown of area sushiyas. It\u0027s a minimalist, wonderfully lit, and rather Zen den, with an L-shaped counter seating some ten lucky guests as well as a few tables lining one side ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/beverly-hills/restaurant/yasu",
+    "mainPhone": "+14243550257",
+    "name": "Yasu",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

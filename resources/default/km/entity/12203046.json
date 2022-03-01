@@ -1,0 +1,24 @@
+{
+  "$id": "12203046",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "3515 Wilshire Blvd.",
+      "postalCode": "90010",
+      "region": "CA"
+    },
+    "description": "Chef Josiah Citrin\u0027s dining room at the über-cool Line Hotel in Koreatown has a distinct feel. Showcasing a pitched glass roof, thicket of plants and plush seating, this space boasts a conservatory feel, but it\u0027s unquestionably an urban jungle inside, thanks to a crowd of buzzy diners debating what ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/openaire",
+    "mainPhone": "+12133683065",
+    "name": "Openaire",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.thelinehotel.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

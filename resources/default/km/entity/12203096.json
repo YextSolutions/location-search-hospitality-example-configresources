@@ -1,0 +1,24 @@
+{
+  "$id": "12203096",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "6101 California St.",
+      "postalCode": "94121",
+      "region": "CA"
+    },
+    "description": "This recruit in a retro drugstore is already the toast of town, with crowds young and old packing in—not unlike neighboring sister, Pizzetta 211. The big and airy space is designed for all-day dining —whether that may be coffee and wood-fired bagels during the day, or a substantial dinner ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/pearl-6101",
+    "mainPhone": "+14155929777",
+    "name": "Pearl 6101",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.pearl6101.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

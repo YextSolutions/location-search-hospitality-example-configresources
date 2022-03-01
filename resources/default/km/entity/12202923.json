@@ -1,0 +1,24 @@
+{
+  "$id": "12202923",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "950 S. Vermont Ave.",
+      "postalCode": "90006",
+      "region": "CA"
+    },
+    "description": "Specializing in the storied dishes that were once served to Korea’s royals, this mini Seoul-based chain stands out from the K-town crowd. This is largely thanks to its hanbok-attired servers and warren of private rooms, featuring an expansive foyer with a counter and carved wooden seats with plush cushions. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/yong-su-san",
+    "mainPhone": "+12133883042",
+    "name": "Yong Su San",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.yongsusanla.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

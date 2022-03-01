@@ -1,0 +1,21 @@
+{
+  "$id": "12202973",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "El Monte",
+      "countryCode": "US",
+      "line1": "5120 N. Peck Rd.",
+      "postalCode": "91732",
+      "region": "CA"
+    },
+    "description": "If the word “burrito” conjures up images of hearty, newborn baby-sized bundles of deliciousness, this kitchen is here to alter your perception. Specializing in the slim, egg roll-shaped burritos of Mexico’s Zacatecas region, this down-home duo of spots is all about the holy trinity of tortilla, meat and salsa—no ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/el-monte/restaurant/burritos-la-palma",
+    "mainPhone": "+16263508286",
+    "name": "Burritos La Palma",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

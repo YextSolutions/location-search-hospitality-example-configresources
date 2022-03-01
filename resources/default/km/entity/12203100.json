@@ -1,0 +1,24 @@
+{
+  "$id": "12203100",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Venice",
+      "countryCode": "US",
+      "line1": "1429 Abbot Kinney Blvd.",
+      "postalCode": "90291",
+      "region": "CA"
+    },
+    "description": "In its ten-year run, this buzzy restaurant has spawned a to-go counter, highly popular bakery and cookbook. The ambience is ceaselessly upbeat, resulting in a scene that is a major draw among pretty young things. Brick floors and creeping vines fashion a picturesque, garden-like setting that is an idyllic ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/venice/restaurant/gjelina",
+    "mainPhone": "+13104501429",
+    "name": "Gjelina",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.gjelina.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

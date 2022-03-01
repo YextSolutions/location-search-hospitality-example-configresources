@@ -1,0 +1,24 @@
+{
+  "$id": "12203140",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Sebastopol",
+      "countryCode": "US",
+      "line1": "6948 Sebastopol Ave.",
+      "postalCode": "95472",
+      "region": "CA"
+    },
+    "description": "“Gaijin” is the none-too-polite Japanese term for a foreigner, but the American chefs of this noodle joint clearly take pride in their outsider status, fusing local ingredients with traditional technique. It\u0027s surely one of the best bowls of ramen around, and you can smell the soup before you\u0027re even ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/sebastopol/restaurant/ramen-gaijin",
+    "mainPhone": "+17078273609",
+    "name": "Ramen Gaijin",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.ramengaijin.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12198981",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "145 West Broadway",
+      "postalCode": "10013",
+      "region": "NY"
+    },
+    "description": "It’s easy to see why The Odeon has been a part of the fabric of TriBeCa life for so long. Like watching a re-run of Seinfeld, it is reassuringly familiar, classically New York and, even when you know what’s coming next, still eminently satisfying. The menu is a roll-call ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/the-odeon",
+    "mainPhone": "+12122330507",
+    "name": "The Odeon",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.theodeonrestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

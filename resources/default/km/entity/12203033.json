@@ -1,0 +1,24 @@
+{
+  "$id": "12203033",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "435 N. Fairfax Ave.",
+      "postalCode": "90036",
+      "region": "CA"
+    },
+    "description": "Animal may not be the youngest kid on the block, having recently celebrated a decade in operation, but still it remains enviably cool and inviting. Its plain walls, wood furnishings and large windows read simple but defer to the good-looking crowd who frequents the place. This might have something ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/animal",
+    "mainPhone": "+13237829225",
+    "name": "Animal",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.animalrestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

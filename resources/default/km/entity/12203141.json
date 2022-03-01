@@ -1,0 +1,24 @@
+{
+  "$id": "12203141",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Beverly Hills",
+      "countryCode": "US",
+      "line1": "111 N. La Cienega Blvd.",
+      "postalCode": "90211",
+      "region": "CA"
+    },
+    "description": "Noodle spots may be all the rage, but few prepare such a memorable handmade version of the delicious soba as Chef Ryu Isobe. His brick-lined structure, marked by a bright yellow sign, certainly seems at odds with the ritzy locale, but rest easy as the interior design is chic ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/beverly-hills/restaurant/kazan-1190724",
+    "mainPhone": "+14245129101",
+    "name": "Kazan",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.kazanbeverlyhills.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

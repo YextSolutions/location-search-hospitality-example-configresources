@@ -1,0 +1,24 @@
+{
+  "$id": "12203037",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Pasadena",
+      "countryCode": "US",
+      "line1": "1250 S. Fair Oaks Ave.",
+      "postalCode": "91105",
+      "region": "CA"
+    },
+    "description": "This longtime favorite may show a little age in its décor, but the food is as vibrant as ever thanks to the ministrations of an adept kitchen. Known for salads, sandwiches and strong vegetarian options like a gorgeous burnt carrot salad with avocado, this team can also turn out ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/pasadena/restaurant/the-raymond",
+    "mainPhone": "+16264413136",
+    "name": "The Raymond",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.theraymond.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12202932",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "3465 W. 6th St.",
+      "postalCode": "90020",
+      "region": "CA"
+    },
+    "description": "LA\u0027s barbecue scene is forever brimming with options, so it can be hard to ferret out the more desirable spots. However, the lines wrapping around this upscale, long-standing gem are a sure sign you’ve chosen well. Its name reflects how the menu is organized—offering meats in quarter-pound portions, thereby ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/quarters-bbq",
+    "mainPhone": "+12133658111",
+    "name": "Quarters BBQ",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.quarterskbbq.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

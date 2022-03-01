@@ -1,0 +1,24 @@
+{
+  "$id": "12199089",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1525 Fillmore St.",
+      "postalCode": "94115",
+      "region": "CA"
+    },
+    "description": "Located around the corner from the epoch-making Fillmore Theater, The Progress is a creative expression of the union between top flavors and unique textures. Its kitchen team continues to execute a tome of ingenious dishes that are, in contrast, presented simply and carefully. The restaurant is flanked by dining ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-progress",
+    "mainPhone": "+14156731294",
+    "name": "The Progress",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.theprogress-sf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

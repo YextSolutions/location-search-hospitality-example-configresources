@@ -1,0 +1,21 @@
+{
+  "$id": "12203070",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "11043 Santa Monica Blvd.",
+      "postalCode": "90025",
+      "region": "CA"
+    },
+    "description": "If you want serious nigiri and utterly unique maki that won’t break the bank, make a beeline for this elegant retreat. The servers move as quickly as the chef’s knives, whisking to and fro in the modern, lofty space. In the back corner, find an L-shaped sushi bar that ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/hamasaku",
+    "mainPhone": "+13104797636",
+    "name": "Hamasaku",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

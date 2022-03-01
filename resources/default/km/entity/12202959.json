@@ -1,0 +1,24 @@
+{
+  "$id": "12202959",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Bel Air",
+      "countryCode": "US",
+      "line1": "2931 1/2 Beverly Glen Circle",
+      "postalCode": "90077",
+      "region": "CA"
+    },
+    "description": "Find this beloved Italian-Japanese fusion restaurant between boutiques in an open-air mall. The small, well-appointed room is dark with shellacked wood as well as red-and-black motifs. All of this draws the eye towards that white-tiled wall where a line of itamae are hard at work in the open kitchen. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/bel-air/restaurant/shu-sushi-house-unico",
+    "mainPhone": "+13104742740",
+    "name": "SHU (Sushi House Unico)",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.giacominodrago.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

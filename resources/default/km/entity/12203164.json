@@ -1,0 +1,24 @@
+{
+  "$id": "12203164",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Newport Beach",
+      "countryCode": "US",
+      "line1": "7862 E. Pacific Coast Hwy.",
+      "postalCode": "92657",
+      "region": "CA"
+    },
+    "description": "Look for the off-center signature “M” to mark this spot. Here, Chefs/owners Florent and Amelia Marneau are back to delivering their signature French cuisine, with an eye on the contemporary palate of their southern Californian clientele. This is a stunning, elegant and sumptuous establishment that feels and tastes familiar ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/newport-beach/restaurant/marche-moderne",
+    "mainPhone": "+17144347900",
+    "name": "Marché Moderne",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.marchemoderne.net"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

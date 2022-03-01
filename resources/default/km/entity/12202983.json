@@ -1,0 +1,21 @@
+{
+  "$id": "12202983",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Barbara",
+      "countryCode": "US",
+      "line1": "202 State St.",
+      "postalCode": "93101",
+      "region": "CA"
+    },
+    "description": "Loquita is located just blocks from the beach and inside a cream-tinted building with a red-tiled roof. Small and stylish, the space oozes with creative flair—picture colorful tiles, a humming bar framed by soft pink stools, and starburst light fixtures. Find a perch at the beloved wood counter or ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-barbara/restaurant/loquita",
+    "mainPhone": "+18058803380",
+    "name": "Loquita",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

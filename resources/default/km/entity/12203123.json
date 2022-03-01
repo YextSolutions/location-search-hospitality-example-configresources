@@ -1,0 +1,24 @@
+{
+  "$id": "12203123",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Chula Vista",
+      "countryCode": "US",
+      "line1": "556 Broadway",
+      "postalCode": "91910",
+      "region": "CA"
+    },
+    "description": "Look for the telltale sign of this taqueria—that smoky gray exterior with hot pink trim—and you’ll know you’ve arrived at a local hot spot. Another sign? The throngs of people queued up at the Tijuana-style counter service-only joint. It’s serious business inside, where there are different lines and windows ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/chula-vista/restaurant/tacos-el-gordo",
+    "mainPhone": "+16196918848",
+    "name": "Tacos El Gordo",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.tacoselgordobc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

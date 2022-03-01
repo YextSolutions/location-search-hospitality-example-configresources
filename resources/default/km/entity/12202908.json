@@ -1,0 +1,24 @@
+{
+  "$id": "12202908",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Venice",
+      "countryCode": "US",
+      "line1": "1009 Abbot Kinney Blvd.",
+      "postalCode": "90291",
+      "region": "CA"
+    },
+    "description": "Plant-based chef and lifestyle guru Matthew Kenney successfully brings the vision of pure food and fine wine to the West Coast by way of Plantlab—a lifestyle brand replete with cookbooks, wellness retreats and a plant-based cooking school. Unsurprisingly, his Venice restaurant offers a taste of all that deliciously wholesome ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/venice/restaurant/plant-food-wine",
+    "mainPhone": "+13104501009",
+    "name": "Plant Food + Wine",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.matthewkenneycuisine.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

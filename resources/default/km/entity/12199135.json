@@ -1,0 +1,24 @@
+{
+  "$id": "12199135",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Washington",
+      "countryCode": "US",
+      "line1": "1346 Florida Ave. NW",
+      "postalCode": "20000",
+      "region": "DC"
+    },
+    "description": "Myriad restaurants boast of live fire and grilling prowess, but few are as brazen as Maydān, a veritable showstopper, whose roaring hearth verges on wildfire. Of course, the kitchen team who is tasked with taming it—and practically cooking in it—is nothing short of blazing. The heat is brutal and ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/district-of-columbia/washington-dc/restaurant/maydan",
+    "mainPhone": "+12023703696",
+    "name": "Maydān",
+    "timezone": "America/New_York",
+    "websiteUrl": {
+      "url": "http://www.maydandc.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

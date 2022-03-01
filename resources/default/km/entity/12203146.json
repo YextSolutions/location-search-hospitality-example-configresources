@@ -1,0 +1,24 @@
+{
+  "$id": "12203146",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Pasadena",
+      "countryCode": "US",
+      "line1": "88 N. Fair Oaks Ave.",
+      "postalCode": "91103",
+      "region": "CA"
+    },
+    "description": "In stark contrast to Old Pasadena’s commercialized shopping district sits this simple but alluring seafood bar. Inspired by New England cooking, diners can easily make a meal out of the raw menu alone, which features a roster of oysters, clams, lobster and shrimp. But cooked plates display just as ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/pasadena/restaurant/fishwives",
+    "mainPhone": "+16262196199",
+    "name": "Fishwives",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.fishwives.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

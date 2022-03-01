@@ -1,0 +1,24 @@
+{
+  "$id": "12203095",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Hollywood",
+      "countryCode": "US",
+      "line1": "8164 W. 3rd St.",
+      "postalCode": "90028",
+      "region": "CA"
+    },
+    "description": "The name is a necessary clue: look for two rickety wooden doors to enter. This is literally hidden-in-plain-sight, since all that signals its presence is a diminutive blue-and-white plaque emblazoned with the street number. Don’t be discouraged though, since it merely adds to the notion that you’ve stumbled upon ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/hollywood/restaurant/the-little-door",
+    "mainPhone": "+13239511210",
+    "name": "The Little Door",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.thelittledoor.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

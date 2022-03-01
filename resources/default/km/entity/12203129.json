@@ -1,0 +1,24 @@
+{
+  "$id": "12203129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Pasadena",
+      "countryCode": "US",
+      "line1": "110 E. Union St.",
+      "postalCode": "91103",
+      "region": "CA"
+    },
+    "description": "Maestro’s location amidst Old Town Pasadena’s national chains is a bit of a red herring as this upscale Mexican restaurant is anything but ordinary. Instead, discover a sexy, modern space with soft lighting and lofty ceilings (perfect for date night) along with an ambitious kitchen delivering ingredient-driven dishes. The ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/pasadena/restaurant/maestro",
+    "mainPhone": "+16267871512",
+    "name": "Maestro",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.maestropasadena.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,25 @@
+{
+  "$id": "12203153",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Beverly Hills",
+      "countryCode": "US",
+      "line1": "233 N. Beverly Dr.",
+      "postalCode": "90210",
+      "region": "CA"
+    },
+    "c_defaultOnInitialSearch": true,
+    "description": "The laid-back luxury of the Greek islands has arrived, thanks to this cavernous beauty that has stolen the hearts of all and sundry. There\u0027s a breezy elegance inside; add on a menu of clean and classic flavors and you’ll instantly get the drift. Pull up a chair and be ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/beverly-hills/restaurant/avra",
+    "mainPhone": "+13107340841",
+    "name": "Avra",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.avrabeverlyhills.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

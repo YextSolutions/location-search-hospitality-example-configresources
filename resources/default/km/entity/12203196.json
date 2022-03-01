@@ -1,0 +1,24 @@
+{
+  "$id": "12203196",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1658 Market St.",
+      "postalCode": "94102",
+      "region": "CA"
+    },
+    "description": "Forty years young and still thriving as if it were newborn, locals and visitors remain drawn to this SF institution. Famous for its laid-back California vibe and great, locally sourced eats, this iconic space embraces its unique shape, and is styled with bold artwork-covered walls, a copper bar and ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe",
+    "mainPhone": "+14155522522",
+    "name": "Zuni Café",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.zunicafe.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

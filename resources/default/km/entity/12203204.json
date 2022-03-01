@@ -1,0 +1,24 @@
+{
+  "$id": "12203204",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "211 Clement St.",
+      "postalCode": "94118",
+      "region": "CA"
+    },
+    "description": "Wako blends right in with the sea of Asian restaurants on Clement Street, but don’t let its nondescript exterior fool you. Once inside, you will find a serene and spare dining room that is composed with beautiful, multi-hued wood surfaces and attended to by an exceedingly polite service staff. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/wako",
+    "mainPhone": "+14156824875",
+    "name": "Wako",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.sushiwakosf.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,22 @@
+{
+  "$id": "12203171",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Coronado",
+      "countryCode": "US",
+      "line1": "1166 Orange Ave.",
+      "postalCode": "92118",
+      "region": "CA"
+    },
+    "c_defaultOnInitialSearch": true,
+    "description": "As if idyllic Coronado Island didn\u0027t have you at hello, Little Frenchie comes along to steal your heart. This quaint space grabs you from the very beginning as you catch sight of that counter displaying a tempting lineup of cheeses, freshly baked baguettes and silver buckets of wine. Red ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/coronado/restaurant/little-frenchie",
+    "mainPhone": "+16196750041",
+    "name": "Little Frenchie",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

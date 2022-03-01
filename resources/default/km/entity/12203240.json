@@ -1,0 +1,24 @@
+{
+  "$id": "12203240",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Redwood City",
+      "countryCode": "US",
+      "line1": "312 Arguello St.",
+      "postalCode": "94063",
+      "region": "CA"
+    },
+    "description": "Redwood City is undoubtedly quaint yet lively, but this silent charmer is a delightful reprieve. It\u0027s a serene space with warm-toned walls, plush seats, and that esteemed L-shaped counter. Soft tunes appear to keep pace with enthusiastic and gliding servers. Chef Jason Zhan puts on an impressive show at ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/redwood-city/restaurant/sushi-shin-1195403",
+    "mainPhone": "+16502577858",
+    "name": "Sushi Shin",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.sushishinredwoodcity.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203104",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Carmel-by-the-Sea",
+      "countryCode": "US",
+      "line1": "Corner of Lincoln St.",
+      "postalCode": "93921",
+      "region": "CA"
+    },
+    "description": "The name itself tells the story of this restaurant and cuisine: Dametra is a portmanteau of Damascus and Petra. This results in a Middle Eastern and Mediterranean menu of huge portions that won’t break the bank. The eponymous veggie delight offers a tasty array of the rustic dishes that ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/carmel-by-the-sea/restaurant/dametra-cafe",
+    "mainPhone": "+18316227766",
+    "name": "Dametra Cafe",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.dametracafe.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

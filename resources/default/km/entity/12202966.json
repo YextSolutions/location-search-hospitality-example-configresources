@@ -1,0 +1,24 @@
+{
+  "$id": "12202966",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "550 W. Date St.",
+      "postalCode": "92101",
+      "region": "CA"
+    },
+    "description": "It\u0027s strictly breakfast and brunch only at this Little Italy spot, which isn\u0027t however just for the bright-eyed and bushy-tailed. The playful décor may look feminine with its plush booths, pink-and-green marble floors and a champagne vending machine, but look closer and you\u0027ll find a few skulls and dark ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/morning-glory",
+    "mainPhone": "+16196290302",
+    "name": "Morning Glory",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.morningglorybreakfast.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "12203077",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Encino",
+      "countryCode": "US",
+      "line1": "16573 Ventura Blvd.",
+      "postalCode": "91436",
+      "region": "CA"
+    },
+    "description": "Set in a nondescript shopping center, this highly pedigreed settler has managed to keep a low profile. But discerning locals know a great master when they see one, and Taketoshi Azumi is indeed the real deal. The chef has worked for two decades at top spots on both coasts ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/encino/restaurant/shin-sushi",
+    "mainPhone": "+18186164148",
+    "name": "Shin Sushi",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

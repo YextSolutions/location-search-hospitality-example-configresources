@@ -1,0 +1,21 @@
+{
+  "$id": "12202926",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Francisco",
+      "countryCode": "US",
+      "line1": "1220 Ninth Ave.",
+      "postalCode": "94122",
+      "region": "CA"
+    },
+    "description": "You’ll have a field day texting this one’s moniker when you recommend it to your friends, but recommend it you must. The name quite literally means “Mom” in Korean; and sure enough, portraits of modern pop culture icon moms like Ali Wong and Marge Simpson line the walls of ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-francisco/restaurant/um-ma",
+    "mainPhone": "+14155665777",
+    "name": "Um.ma",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

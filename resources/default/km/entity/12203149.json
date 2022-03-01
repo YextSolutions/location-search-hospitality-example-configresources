@@ -1,0 +1,24 @@
+{
+  "$id": "12203149",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Marshall",
+      "countryCode": "US",
+      "line1": "18863 Shoreline Hwy.",
+      "postalCode": "94940",
+      "region": "CA"
+    },
+    "description": "You’ll be hard pressed to find more picturesque views than the ones at this charming, sun-lit nook perched right on the edge of Tomales Bay. Now under the ownership of Hog Island Oyster Co., the restaurant offers a casual but seriously delicious foray into ace seafood that\u0027s been caught ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/marshall/restaurant/tony-s-seafood",
+    "mainPhone": "+14156631107",
+    "name": "Tony\u0027s Seafood",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://tonysseafoodrestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

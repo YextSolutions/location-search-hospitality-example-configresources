@@ -1,0 +1,24 @@
+{
+  "$id": "12203105",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Barbara",
+      "countryCode": "US",
+      "line1": "36 State St.",
+      "postalCode": "93101",
+      "region": "CA"
+    },
+    "description": "Located at the waterfront Hotel Californian, Blackbird is as attractive as its surroundings. Inside, its décor blends art deco and mid-century styles, with an “air kiss” to the private clubs of yesteryear. Striking arched doors seem to let the sea breeze wash over the room and an inviting bar ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-barbara/restaurant/blackbird-564365",
+    "mainPhone": "+18058820135",
+    "name": "Blackbird",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.hotelcalifornian.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

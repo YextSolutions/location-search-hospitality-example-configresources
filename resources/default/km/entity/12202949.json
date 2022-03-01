@@ -1,0 +1,24 @@
+{
+  "$id": "12202949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "332 S. Broadway",
+      "postalCode": "90013",
+      "region": "CA"
+    },
+    "description": "With its tall mirrors, tiled walls and tin ceilings, this rustic Italian eatery is every inch the classic trattoria. Hidden in plain sight just across from Grand Central Market, it is a known quantity with the local crowd, who fill these tables at all times of day. A few ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/maccheroni-republic",
+    "mainPhone": "+12133469725",
+    "name": "Maccheroni Republic",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.maccheronirepublic.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

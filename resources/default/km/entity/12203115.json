@@ -1,0 +1,24 @@
+{
+  "$id": "12203115",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Carmel-by-the-Sea",
+      "countryCode": "US",
+      "line1": "95 5th Ave.",
+      "postalCode": "93921",
+      "region": "CA"
+    },
+    "description": "This historic 1920s cottage—once owned by Charlie Chaplin’s personal chef—is marked by a bike parked out front with lavender flowing from the basket. Before opening in 1987, the family remodeled the building after their Belgian farmhouse and even dug down to replicate their wine cellar, which today houses a ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/carmel-by-the-sea/restaurant/casanova",
+    "mainPhone": "+18312163811",
+    "name": "Casanova",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.casanovacarmel.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,21 @@
+{
+  "$id": "12202993",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Culver City",
+      "countryCode": "US",
+      "line1": "10406 Venice Blvd.",
+      "postalCode": "90232",
+      "region": "CA"
+    },
+    "description": "Tucked away near the behemoth Sony Pictures lies this oasis of South Indian food. The simple interior of this local gem is fitted with bright purple chairs, colorful roses and booths lining the wall. But really, you\u0027re here for the food, which specializes in flavors from Kerala, a state ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/culver-city/restaurant/mayura",
+    "mainPhone": "+13105599644",
+    "name": "Mayura",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

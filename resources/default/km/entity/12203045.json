@@ -1,0 +1,24 @@
+{
+  "$id": "12203045",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "907 E. 3rd St.",
+      "postalCode": "90013",
+      "region": "CA"
+    },
+    "description": "This large enclosed restaurant is tucked inside the multi-use Hauser \u0026 Wirth Arts Complex. If that doesn\u0027t clue you in on its creative bent, the very conceptual art and open-plan kitchen will surely do the trick. The dining room meanders between a marble bar donning silver bowls of fruit, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/manuela",
+    "mainPhone": "+13238490480",
+    "name": "Manuela",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.manuela-la.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

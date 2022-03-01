@@ -1,0 +1,24 @@
+{
+  "$id": "12198964",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Chicago",
+      "countryCode": "US",
+      "line1": "951 W. Fulton Market",
+      "postalCode": "60607",
+      "region": "IL"
+    },
+    "description": "In contrast to the boundary-pushing Alinea and the elaborate whims of Next, Chef Grant Achatz\u0027s Roister is downright rustic and approachable. Boldly incorporated into its dark dining room, the kitchen serves as the focal point of this unapologetically loud and laid-back space—where the best seats are at the counter, ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/illinois/chicago/restaurant/roister",
+    "mainPhone": "+13127894896",
+    "name": "Roister",
+    "timezone": "America/Chicago",
+    "websiteUrl": {
+      "url": "http://www.roisterrestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

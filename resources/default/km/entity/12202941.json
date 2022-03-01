@@ -1,0 +1,24 @@
+{
+  "$id": "12202941",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "line1": "704 S. Alvarado St.",
+      "postalCode": "90057",
+      "region": "CA"
+    },
+    "description": "Pico Blvd. is lined with Jewish delis, but stray from the pack and head to MacArthur Park and Langer’s, which has been ladling matzoh ball soup since 1947. And while it began life as a 12-seat counter, it has transformed to a massive space—decked out with booths and that ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-los-angeles/restaurant/langer-s",
+    "mainPhone": "+12134838050",
+    "name": "Langer\u0027s",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.langersdeli.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

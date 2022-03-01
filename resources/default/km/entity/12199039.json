@@ -1,0 +1,21 @@
+{
+  "$id": "12199039",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "New York",
+      "countryCode": "US",
+      "line1": "98 Victory Blvd.",
+      "postalCode": "10301",
+      "region": "NY"
+    },
+    "description": "Visit Sri Lanka by way of Sagara, where the island nation’s rich cultural diversity is on full display. Dishes here are delivered at once, so you’ll be nibbling on an appetizer of fish cakes, mas paan, and fritter-like dhal vade, while also tucking in to hearty entrées. It’s a veritable ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/sagara",
+    "mainPhone": "+17182854556",
+    "name": "Sagara",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

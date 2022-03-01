@@ -1,0 +1,24 @@
+{
+  "$id": "12202968",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Diego",
+      "countryCode": "US",
+      "line1": "2820 Roosevelt Rd.",
+      "postalCode": "92106",
+      "region": "CA"
+    },
+    "description": "It’s just steps from the Liberty Public Market in the NTC Promenade, but one step inside this elegant and chic arena where a warm apricot and sienna color scheme dominates, and you’ll instantly feel like you’re in Italy. This masterful kitchen wants to feed you and they\u0027ll feed you ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/us-san-diego/restaurant/solare",
+    "mainPhone": "+16192709670",
+    "name": "Solare",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.solarelounge.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

@@ -1,0 +1,24 @@
+{
+  "$id": "12203168",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "West Hollywood",
+      "countryCode": "US",
+      "line1": "8500 W. Sunset Blvd.",
+      "postalCode": "90069",
+      "region": "CA"
+    },
+    "description": "Tesse is French slang for charcuterie, and sure enough, you’ll find an impressive lineup of terrines, rillettes and artisanal sausages at this stylish restaurant. And though the cured meats program is integral to its spirit, this kitchen spins out an array of contemporary dishes as well, with careful attention ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/west-hollywood/restaurant/tesse",
+    "mainPhone": "+13103603866",
+    "name": "Tesse",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.tesserestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

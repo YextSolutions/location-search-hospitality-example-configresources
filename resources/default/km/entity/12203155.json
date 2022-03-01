@@ -1,0 +1,24 @@
+{
+  "$id": "12203155",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "San Anselmo",
+      "countryCode": "US",
+      "line1": "198 Sir Francis Drake Blvd.",
+      "postalCode": "94960",
+      "region": "CA"
+    },
+    "description": "Upscale yet friendly and approachable, Madcap is one of the Bay Area’s top destinations for contemporary dining. The superb culinary skills on display should be no surprise considering that Chef/owner Ron Siegel worked at some of the West Coast’s more renowned kitchens, including The French Laundry. Madcap reflects much ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/san-anselmo/restaurant/madcap",
+    "mainPhone": "+14154539898",
+    "name": "Madcap",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.madcapmarin.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

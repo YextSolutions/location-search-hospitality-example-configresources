@@ -1,0 +1,24 @@
+{
+  "$id": "12202996",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Monica",
+      "countryCode": "US",
+      "line1": "115 Santa Monica Blvd.",
+      "postalCode": "90401",
+      "region": "CA"
+    },
+    "description": "Just a block from the bustle of the Santa Monica Promenade, Tumbi feels worlds away, offering inventive Indian cooking in an industrial-chic setting. There\u0027s butter chicken and palak paneer to satisfy western palates, but savvy diners should opt for the deeper cuts—street foods, “pots as well as showstopping plates ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-monica/restaurant/tumbi",
+    "mainPhone": "+13108297200",
+    "name": "Tūmbi",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.tumbibar.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}

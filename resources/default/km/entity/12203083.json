@@ -1,0 +1,21 @@
+{
+  "$id": "12203083",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Temple City",
+      "countryCode": "US",
+      "line1": "9148 Las Tunas Dr.",
+      "postalCode": "91780",
+      "region": "CA"
+    },
+    "description": "First things first: doors open at 11:30 A.M. here and close three and a half hours later. It’s so small a window you know they’ll pack the house. And indeed they do, with lines forming long before doors open at this popular Taiwanese restaurant. Once inside, things move fast. ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/temple-city/restaurant/dai-ho",
+    "mainPhone": "+16262912295",
+    "name": "Dai Ho",
+    "timezone": "America/Los_Angeles"
+  },
+  "entityType": "location",
+  "labels": []
+}

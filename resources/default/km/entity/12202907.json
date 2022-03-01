@@ -1,0 +1,24 @@
+{
+  "$id": "12202907",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Santa Barbara",
+      "countryCode": "US",
+      "line1": "1919 Cliff Dr.",
+      "postalCode": "93109",
+      "region": "CA"
+    },
+    "description": "Don’t let the less-than-swanky location fool you into thinking that this is anything less than an excellent vegan restaurant. Besides, once inside it feels more like a house with a lovely garden terrace, wood décor and wide-open kitchen. This is the kind of food that even meat-eaters can instantly ...",
+    "landingPageUrl": "https://guide.michelin.com/us/en/california/santa-barbara/restaurant/mesa-verde",
+    "mainPhone": "+18059634474",
+    "name": "Mesa Verde",
+    "timezone": "America/Los_Angeles",
+    "websiteUrl": {
+      "url": "http://www.mesaverderestaurant.com"
+    }
+  },
+  "entityType": "location",
+  "labels": []
+}
