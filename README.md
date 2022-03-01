@@ -1,0 +1,1 @@
+# location-search-hospitality-example-configresources
